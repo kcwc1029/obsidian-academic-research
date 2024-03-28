@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自己撰寫的/未命名.md",
+                "file": "A scoping review of metaverse in emergency medicine.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,26 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods  A Meta-Analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46f925ba6b3056f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods  A Meta-Analysis.md",
+                "file": "自己撰寫的/未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods  A Meta-Analysis.md",
+                "file": "A scoping review of metaverse in emergency medicine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods  A Meta-Analysis.md",
+                "file": "A scoping review of metaverse in emergency medicine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods  A Meta-Analysis.md"
+                "file": "A scoping review of metaverse in emergency medicine.md"
               }
             }
           }
@@ -171,13 +158,15 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "99de048838432c7d",
+  "active": "0bd8a4719655cbb0",
   "lastOpenFiles": [
-    "Simulation Applications in Emergency Medical Services.md",
-    "README.md",
-    "A scoping review of metaverse in emergency medicine.md",
     "自己撰寫的/未命名.md",
-    "The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods  A Meta-Analysis.md",
+    "Literature/A scoping review of metaverse in emergency medicine.pdf",
+    "截圖 2024-03-28 晚上9.36.42.png",
+    "A scoping review of metaverse in emergency medicine.md",
+    "Simulation Applications in Emergency Medical Services.md",
+    "Literature",
+    "README.md",
     "自己撰寫的"
   ]
 }
