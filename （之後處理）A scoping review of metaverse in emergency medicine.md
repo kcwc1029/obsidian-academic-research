@@ -11,9 +11,6 @@ file: "[[A scoping review of metaverse in emergency medicine.pdf]]"
 ---
 
 
-
-
-
 ====== 研究對象 ======
 ====== 理論框架 ======
 ====== 研究問題 ======

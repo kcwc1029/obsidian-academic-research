@@ -4,34 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "20673643bfa5c10e",
+        "id": "2350e742f66f25cc",
         "type": "tabs",
         "children": [
           {
-            "id": "0bd8a4719655cbb0",
+            "id": "4eeff0622a46b458",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A scoping review of metaverse in emergency medicine.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "99de048838432c7d",
+            "id": "61fe5894fba3adb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自己撰寫的/未命名.md",
+                "file": "（之後處理）A virtual emergency learning lessons from remote medical student education during the COVID-19 pandemic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5050a56312e85964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d775c9be21912767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A scoping review of metaverse in emergency medicine.md",
+                "file": "The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A scoping review of metaverse in emergency medicine.md",
+                "file": "The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A scoping review of metaverse in emergency medicine.md"
+                "file": "The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods.md"
               }
             }
           }
@@ -158,15 +183,31 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "0bd8a4719655cbb0",
+  "active": "d775c9be21912767",
   "lastOpenFiles": [
-    "自己撰寫的/未命名.md",
-    "Literature/A scoping review of metaverse in emergency medicine.pdf",
-    "截圖 2024-03-28 晚上9.36.42.png",
-    "A scoping review of metaverse in emergency medicine.md",
-    "Simulation Applications in Emergency Medical Services.md",
-    "Literature",
+    "attachments/截圖 2024-03-30 晚上11.26.55.png",
+    "attachments/截圖 2024-03-30 晚上11.20.40.png",
+    "attachments/截圖 2024-03-30 晚上11.20.40 1.png",
+    "The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods.md",
+    "attachments",
     "README.md",
-    "自己撰寫的"
+    "（之後處理）An Immersive Multi-User Virtual Reality for Emergency Simulation Training Usability Study.md",
+    "（之後處理）A scoping review of metaverse in emergency medicine.md",
+    "（之後處理）Simulation Applications in Emergency Medical Services.md",
+    "（之後處理）A virtual emergency learning lessons from remote medical student education during the COVID-19 pandemic.md",
+    "20240328/A scoping review of metaverse in emergency medicine 1.pdf",
+    "Literature/截圖 2024-03-28 晚上9.36.42.png",
+    "20240329/oostema-et-al-2023-emergency-medical-services-compliance-with-prehospital-stroke-quality-metrics-is-associated-with.pdf",
+    "20240329/The Perception of Emergency Medical Staff on the Use of Electronic Patient Clinical Records Systems in Emergency Medical Service- A Systematic Review.pdf",
+    "自己撰寫的/未命名.md",
+    "Computer-supported Collaborative Learning in Programming Education  A Systematic Literature Review.md",
+    "未命名",
+    "====== 研究對象 ============ 理論框架 ============ 研究問題 ============ 研究目的 ======未命名.md",
+    "20240328/A scoping review of metaverse in emergency medicine.pdf",
+    "20240329/Virtual care in the pediatric emergency department a new way of doing business.pdf",
+    "20240329/federated learning in medicine facilitating multi‐institutional collaborations without sharing patient data.pdf",
+    "20240329/A virtual emergency learning lessons from remote medical student education during the COVID-19 pandemic.pdf",
+    "20240329/An Immersive Multi-User Virtual Reality for Emergency Simulation Training Usability Study.pdf",
+    "^1.md"
   ]
 }
