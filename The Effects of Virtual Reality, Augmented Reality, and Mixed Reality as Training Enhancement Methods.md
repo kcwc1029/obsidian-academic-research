@@ -6,6 +6,7 @@ tags:
   - virtual_environments
 file: "[[The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods A Meta-Analysis.pdf]]"
 APA: "Kaplan, A. D., Cruit, J., Endsley, M., Beers, S. M., Sawyer, B. D., & Hancock, P. A. (2021). The effects of virtual reality, augmented reality, and mixed reality as training enhancement methods: A meta-analysis. Human factors, 63(4), 706-726."
+重要程度: ✭✭✭
 ---
 ==研究目標==
 ==研究背景==
