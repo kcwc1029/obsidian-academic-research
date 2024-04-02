@@ -6,34 +6,32 @@ tags:
 APA: "van der Meer, N., van der Werf, V., Brinkman, W. P., & Specht, M. (2023). Virtual reality and collaborative learning: A systematic literature review. Frontiers in Virtual Reality, 4, 1159905."
 file: "[[Virtual reality and collaborative learning  a systematic literature review.pdf]]"
 ---
-==研究目標==
+## 研究目標
 
 1. 使用 VRCL 培訓了哪些技能和能力（以及 VRCL 環境應該提供什麼來培訓這些技能和能力）？
 2. 涉及哪些領域和學科（以及為什麼）？
 3. 已經開發和/或建立了哪些系統？
 4. 已經建立了哪些經驗知識（以及採用什麼方法和/或研究設計）？
 
-==研究背景==
-==研究問題==
-==研究對象==
-==理論框架==
 
+## 研究方法
 
-==研究方法==
 本綜述使用兩個科學資料庫——Scopus和Web of Science。採用PRISMA方法，共分析了139篇文章。
 
 
-==研究結果==
+
+## 研究結果
 
 從 1980 年代開始，學術界一直在研究計算機支持的協作學習 （CSCL），其圍繞可以通過觀察他人的行為來獲得新行為[1]（Shi et al.， 2019）。通過利用技術特徵，可以支援遠端和面對面的協作，以及學習者之間的同步和異步協作[2]（Stahl et al.，2006）。被賦予了許多便利性，包括聯合資訊處理、資源分享和知識的共同建構（Shawky et al., 2014; Jeong & Hmelo-Silver，2016 年）。而其中一個發展是虛擬實境的使用[18, 19]。
 
-
 虛擬環境（VE）是共用的類比空間，允許分散式使用者相互通信，並參與聯合活動，使其成為遠端協作的有效工具（Daphne等人，2000）[4]，其目標可依據需求自訂，並可滿足視覺表現。 適用於許多不同的領域和學科（Jackson 等人，1999 年;Joyner 等人，2021 年）[5,6]
-
 
 學者們似乎一致認為，VR的教育使用領域缺乏教學實踐或策略，很少關注如何實施該技術以獲得其好處（Cook等人，2019;史密斯，2019 年;Scavarelli 等人，2021 年）[7, 8, 9]。
 
-==研究圖表：VR在教育中的應用==
+
+
+
+## 研究圖表：VR在教育中的應用
 
 | 分類            | APA                                                                                                                                                                                                                                                            | 內容                                                                                 |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
@@ -54,61 +52,82 @@ VR技術已經顯示出CSCL領域的潛力，可以提高團隊行為的有效�
 
 
 
-==引用
+## 引用
 
 [1] Shi, Y., Du, J., Ahn, C. R., & Ragan, E. (2019). Impact assessment of reinforced learning methods on construction workers' fall risk behavior using virtual reality. _Automation in Construction_, _104_, 197-214.
+
 [2] Stahl, G., Koschmann, T. D., & Suthers, D. D. (2006). CSCL: An historical perspective.
 
 [4] Daphne, E., William, M. L., Steve, P. R., & Adrian, W. J. (2000, June). CVE technology development based an real world application and user needs. In _Proceedings IEEE 9th International Workshops on Enabling Technologies: Infrastructure for Collaborative Enterprises (WET ICE 2000)_ (pp. 12-20). IEEE.
+
 [5] Jackson, R. L., Taylor, W., & Winn, W. (1999, February). Peer collaboration and virtual environments: A preliminary investigation of multi-participant virtual reality applied in science education. In _Proceedings of the 1999 ACM symposium on Applied computing_ (pp. 121-125).
+
 [6] Joyner, D. A., Mavilakandy, A., Mittal, I., Kutnick, D., & Macintyre, B. (2021, June). Content-neutral immersive environments for cultivating scalable camaraderie. In _Proceedings of the Eighth ACM Conference on Learning@ Scale_(pp. 47-58).
+
 [7] Hall, N., Lischer-Katz, Z., Cook, M., Hardesty, J., Johnson, J., McDonald, R. H., & Carlisle, T. (2019). Challenges and Strategies for Educational Virtual Reality: Results of an Expert-led Forum on 3D/VR Technologies across Academic Institutions.
+
 [8] Smith, S. A. (2019). Virtual reality in episodic memory research: A review. _Psychonomic bulletin & review_, _26_, 1213-1237.
+
 [9] Sousa Santos, B., Dias, P., Pimentel, A., Baggerman, J. W., Ferreira, C., Silva, S., & Madeira, J. (2009). Head-mounted display versus desktop for 3D navigation in virtual reality: a user study. _Multimedia tools and applications_, _41_, 161-181.
+
 [10] Le, Q. T., Pedro, A., & Park, C. S. (2015). A social virtual reality based construction safety education system for experiential learning. _Journal of Intelligent & Robotic Systems_, _79_, 487-506.
+
 [11] Godin, J. J., & Pridmore, J. (2019). Using design thinking strategies and virtual reality in global virtual teams. _Issues in Information Systems_, _20_(4), 104-106.
+
 [12] Zheng, L., Xie, T., & Liu, G. (2018, December). Affordances of virtual reality for collaborative learning. In _2018 international joint conference on information, media and engineering (ICIME)_ (pp. 6-10). IEEE.
+
 [13] Abdullah, J., Mohd-Isa, W. N., & Samsudin, M. A. (2019). Virtual reality to improve group work skill and self-directed learning in problem-based learning narratives. _Virtual Reality_, _23_(4), 461-471.
+
 [14] De Back, T. T., Tinga, A. M., Nguyen, P., & Louwerse, M. M. (2020). Benefits of immersive collaborative learning in CAVE-based virtual reality. _International Journal of Educational Technology in Higher Education_, _17_, 1-18.
+
 [15] Fajardo Tovar, D., Jonker, V., & Hürst, W. (2020). Virtual Reality and Augmented Reality in education: A review.
+
 [16] Wanis, I. A. (2019, August). A review on collaborative learning environment across virtual and augmented reality technology. In _IOP Conference Series: Materials Science and Engineering_ (Vol. 551, No. 1, p. 012050). IOP Publishing.
+
 [17] Srivastava, P., Rimzhim, A., Vijay, P., Singh, S., & Chandra, S. (2019). Desktop VR is better than non-ambulatory HMD VR for spatial learning. _Frontiers in Robotics and AI_, _6_, 50.
+
 [18] Shawky, D., Badawi, A., Said, T., & Hozayin, R. (2014, December). Affordances of computer-supported collaborative learning platforms: a systematic review. In _2014 international conference on interactive collaborative learning (ICL)_ (pp. 633-651). IEEE.
+
 [19] Jeong, H., & Hmelo-Silver, C. E. (2016). Seven affordances of computer-supported collaborative learning: How to support collaborative learning? How can technologies help?. _Educational Psychologist_, _51_(2), 247-265.
 
 
 
 
-=======================
+## 研究方法：挑選標準
 
-==研究方法==
-// 挑選標準：
 討論虛擬三維類比的人類使用者之間的協作或合作交互。
 討論虛擬實境、增強現實、混合現實 （MR） 或擴展現實 （XR） 作為物理空間或物體的三維類比。（雖然這篇綜述的重點是CL的VR）
 文章包括實證研究（即包含定性或定量數據）
 文章必須包含教育目的或目標（針對人類實體）
 討論用於教育目的（針對人類實體）的系統
 
-==研究結果：教育作為==
+
+
+## 研究結果：教育作為
+
 大多數入選文章都集中在高等教育（即大學）中的VRCL，並大約四分之一的研究（25.9%）報告了VRCL在教育中的應用，但也經常討論的特定領域包括計算機科學、機器人技術、ICT和資訊學（12.2%）、社會科學（11.5%）、醫學領域（9.4%）和工程（8.6%）。
 
 
-==研究結果：教育作為==
-3.3 評價 
+
+## 研究結果：教育作為
+
 ![[截圖 2024-04-01 下午3.29.16.png]]
 - 大多數研究側重於評估系統在教育環境中使用時的有效性（71.2%）集中於系統支持學習者之間協作的能力。其他討論主題是學生對該系統的興趣以及該系統如何促進學習。
 - 研究過程（34.5%）集中在試圖了解群體互動如何在這些環境中實現。 這包括學習者如何解決社會衝突（Cheong et al.，2015）[20]和研究共同存在（例如，Kong and Kwok，2013）[21]和PBL如何在VRCL環境中形成。
 - 35.3%的文章討論了參與者與系統互動后的學習成果。
 - 其餘少數情況（3.6%）包括一項旨在制定設計指南的研究（Economou et al.，2001）[22]和一項主要對學習者與VE互動時教師角色感興趣的研究（Lattemann and Stieglitz，2012）[23]。
 [20] Cheong, Y. G., Khaled, R., Holmgȧrd, C., & Yannakakis, G. N. (2015). Serious games for teaching conflict resolution: modeling conflict dynamics. _Conflict and multimodal communication: Social research and machine intelligence_, 449-475.
+
 [21] Kong, J. S. L., & Kwok, R. C. W. (2013). Knowledge conversion in massive peers: A preliminary study on mutualistic co-presence.
+
 [22] |Economou, D., Mitchell, B., Pettifer, S., Cook, J., & Marsh, J. (2001, November). User Centered Virtual Actor Technology Development. In _VAST'01 Virtual Reality, Archaeology and Cultural Heritage_. Association for Computing Machinery.
+
 [23] Lattemann, C., & Stieglitz, S. (2012). Challenges for lecturers in virtual worlds.
 
-大多數研究側重於評估系統在教育環境中使用時的有效性（71.2%）。這些研究集中於系統支持學習者之間協作的能力。其他討論主題是學生對該系統的興趣以及該系統如何促進學習。每當研究檢查過程（34.5%）時，評估將集中在試圖了解群體互動如何在這些環境中實現。 這包括學習者如何解決社會衝突（Cheong et al.，2015）和研究共同存在（例如，Kong and Kwok，2013）和PBL如何在VRCL環境中形成。 35.3%的文章討論了參與者與系統互動后的學習成果。上述三個屬性不適用的少數情況（3.6%）包括一項旨在制定設計指南的研究（Economou et al.，2001）和一項主要對學習者與VE互動時教師角色感興趣的研究（Lattemann and Stieglitz，2012）。
 
 
-==研究結果：通過VRCL培訓的技能和能力==
+## 研究結果：通過VRCL培訓的技能和能力
+
 ![[截圖 2024-04-01 下午3.42.48.png]]
 - 虛擬具身化在學習者如何看待自己和彼此在職業教育中發揮著重要作用，通過提供意識和歸屬感來影響學習成果和協作行為（Edirisingha 等人，2009 年; McArdle和Bertolotto，2012）[24, 25]。 
 - 有效的溝通工具對於有效的協作至關重要：口頭（音訊）溝通至關重要（Economou et al.， 2001;De Pace 等人，2019年）[26, 27]，儘管觸覺技術等其他方式可以進一步加強協作（Moll 和 Pysander [28]
@@ -122,22 +141,39 @@ VR技術已經顯示出CSCL領域的潛力，可以提高團隊行為的有效�
 
 
 [24] Edirisingha, P., Nie, M., Pluciennik, M., & Young, R. (2009). Socialisation for learning at a distance in a 3‐D multi‐user virtual environment. _British Journal of Educational Technology_, _40_(3), 458-479.
+
 [25] McArdle, G., and Bertolotto, M. (2012). Assessing the application of three- dimensional collaborative technologies within an e-learning environment. Interact. Learn. Environ. 20 (1), 57–75. doi:10.1080/10494821003714749
+
 [26] Economou, D., Mitchell, B., Pettifer, S., Cook, J., & Marsh, J. (2001, November). User Centered Virtual Actor Technology Development. In _VAST'01 Virtual Reality, Archaeology and Cultural Heritage_. Association for Computing Machinery.
+
 [27] De Pace, F., Manuri, F., Sanna, A., and Zappia, D. (2019). A comparison between two different approaches for a collaborative mixed-virtual environment in industrial maintenance. Front. Robotics AI 6, 18–14. doi:10.3389/frobt.2019.00018
+
 [28] Moll, J., & Pysander, E. L. S. (2013). A haptic tool for group work on geometrical concepts engaging blind and sighted pupils. _ACM Transactions on Accessible Computing (TACCESS)_, _4_(4), 1-37.
+
 [29] Chang, Y., Aziz, E. S. S., Zhang, Z., Zhang, M., & Esche, S. K. (2015, June). Usability evaluation of a virtual educational laboratory platform. In _2015 ASEE Annual Conference & Exposition_ (pp. 26-1637).
+
 [30] Denoyelles, A., & Seo, K. K. J. (2012). Inspiring equal contribution and opportunity in a 3d multi-user virtual environment: Bringing together men gamers and women non-gamers in Second Life®. _Computers & Education_, _58_(1), 21-29. 
+
 [31] Denoyelles, A., & Seo, K. K. J. (2012). Inspiring equal contribution and opportunity in a 3d multi-user virtual environment: Bringing together men gamers and women non-gamers in Second Life®. _Computers & Education_, _58_(1), 21-29.
+
 [32] Yeh, S. C., Hwang, W. Y., Wang, J. L., & Chen, Y. R. (2012). Effects of multi-symbols on enhancing virtual reality based collaborative task. _Transactions on Edutainment VIII_, 101-111.
+
 [33] Vrellis, I., Papachristos, N. M., Bellou, J., Avouris, N., & Mikropoulos, T. A. (2010, July). Designing a collaborative learning activity in second life-an exploratory study in physics. In _2010 10th IEEE International Conference on Advanced Learning Technologies_ (pp. 210-214). IEEE.
+
 [34] Bower, M., Lee, M. J., & Dalgarno, B. (2017). Collaborative learning across physical and virtual worlds: Factors supporting and constraining learners in a blended reality environment. _British Journal of Educational Technology_, _48_(2), 407-430.
+
 [35] Wang, C. J., Low, A. S. L., & Woo, C. S. (2013). 3D System for Learning Gains in the Lower Secondary Normal (Technical) Stream. _3D Immersive and Interactive Learning_, 93-103.
+
 [36] Nisiotis, L., & Kleanthous, S. (2019, July). The Relationship Between Students' Engagement and the Development of Transactive Memory Systems in MUVE: An Experience Report. In _Proceedings of the 2019 ACM conference on innovation and technology in computer science education_ (pp. 71-77).
+
 [37] Lattemann, C., & Stieglitz, S. (2012). Challenges for lecturers in virtual worlds.
+
 [38] Bower, M., Lee, M. J., & Dalgarno, B. (2017). Collaborative learning across physical and virtual worlds: Factors supporting and constraining learners in a blended reality environment. _British Journal of Educational Technology_, _48_(2), 407-430.
+
 [39] Hwang, W. Y., & Hu, S. S. (2013). Analysis of peer learning behaviors using multiple representations in virtual reality and their impacts on geometry problem solving. _Computers & Education_, _62_, 308-319.
+
 [40] Chang, V., GÃ¼tl, C., Kopeinik, S., & Williams, R. (2009). Evaluation of collaborative learning settings in 3D virtual worlds. _International Journal of Emerging Technologies in Learning (iJET)_, _4_(2009).
+
 [41]
 [42]
 [43]
@@ -147,7 +183,7 @@ VR技術已經顯示出CSCL領域的潛力，可以提高團隊行為的有效�
 [47]
 [48]
 
-// 2024.04.02 從這邊開始
+// 2024.04.03 從這邊開始
 
 令人驚訝的是，只有少數文獻關注與情感領域相關的目標（7.9%）。有人稱 VR 為“終極同理心機器”（Rueda 和 Lara，2020 年，第 6 頁），該媒介誘發情緒的能力得到了突出的討論和研究
 
