@@ -107,66 +107,113 @@ VR在戰後恢復方面也顯示出重要用途。Rizzo等人（2014）使用VR�
 
 ## 引用
 [1] https://www.merriam-webster.com/dictionary/training
+
 [2] Conges, A., Evain, A., Benaben, F., Chabiron, O., & Rebiere, S. (2020, March). Crisis management exercises in virtual reality. In _2020 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)_ (pp. 87-92). IEEE.
+
 [3] Xie, H., Tudoreanu, E., & Shi, W. (2006). Development of a virtual reality safety-training system for construction workers. _Digital library of construction informatics and information technology in civil engineering and construction_, 1-9.
+
 [4] Martin, G., Schatz, S., Bowers, C., Hughes, C. E., Fowlkes, J., & Nicholson, D. (2009, October). Automatic scenario generation through procedural modeling for scenario-based training. In _Proceedings of the human factors and ergonomics society annual meeting_ (Vol. 53, No. 26, pp. 1949-1953). Sage CA: Los Angeles, CA: SAGE Publications.
+
 [5] Martin, G. A., & Hughes, C. E. (2010, April). A scenario generation framework for automating instructional support in scenario-based training. In _Proceedings of the 2010 Spring Simulation Multiconference_ (pp. 1-6).
+
 [6] Lin, F., Ye, L., Duffy, V. G., & Su, C. J. (2002). Developing virtual environments for industrial training. _Information sciences_, _140_(1-2), 153-170.
+
 [7] Gilbreth, F. B., & Carey, E. G. (2013). _Cheaper by the Dozen_. Open Road Media.
+
 [8] Xie, B., Liu, H., Alghofaili, R., Zhang, Y., Jiang, Y., Lobo, F. D., ... & Yu, L. F. (2021). A review on virtual reality skill training applications. Frontiers in Virtual Reality, 2, 645153.
+
 [9] Salmon, P., Jenkins, D., Stanton, N., & Walker, G. (2010). Hierarchical task analysis vs. cognitive work analysis: comparison of theory, methodology and contribution to system design. _Theoretical Issues in Ergonomics Science_, _11_(6), 504-531.
+
 [10] Lovreglio, R., Duan, X., Rahouti, A., Phipps, R., & Nilsson, D. (2021). Comparing the effectiveness of fire extinguisher virtual reality and video training. _Virtual Reality_, _25_(1), 133-145.
+
 [11] Linowes, J. (2015). _Unity virtual reality projects_. Packt Publishing Ltd.
+
 [12] Whiting, N., & Donaldson, N. (2014). Lessons from Integrating the Oculus Rift into Unreal Engine 4. In _Oculus Connect Developers Conference_.
+
 [13] Taylor, R. M., Hudson, T. C., Seeger, A., Weber, H., Juliano, J., & Helser, A. T. (2001, November). VRPN: a device-independent, network-transparent VR peripheral system. In _Proceedings of the ACM symposium on Virtual reality software and technology_ (pp. 55-61).
+
 [14] Smelik, R. M., De Kraker, K. J., Tutenel, T., Bidarra, R., & Groenewegen, S. A. (2009, June). A survey of procedural methods for terrain modelling. In _Proceedings of the CASA workshop on 3D advanced media in gaming and simulation (3AMIGAS)_ (Vol. 2009, pp. 25-34). sn.
+
 [15] Parish, Y. I., & Müller, P. (2001, August). Procedural modeling of cities. In _Proceedings of the 28th annual conference on Computer graphics and interactive techniques_ (pp. 301-308).
+
 [16] Yu, L. F., Yeung, S. K., Tang, C. K., Terzopoulos, D., Chan, T. F., & Osher, S. J. (2011). Make it home: automatic optimization of furniture arrangement. _ACM Transactions on Graphics (TOG)-Proceedings of ACM SIGGRAPH 2011, v. 30,(4), July 2011, article no. 86_, _30_(4).
+
 [17] Anthes, C., García-Hernández, R. J., Wiedemann, M., and Kranzlmüller, D. (2016). “State of the Art of Virtual Reality Technology”, in IEEE Aerospace Conf., Big Sky, MT, 1–19.
+
 [18] Jensen, L., & Konradsen, F. (2018). A review of the use of virtual reality head-mounted displays in education and training. _Education and Information Technologies_, _23_, 1515-1529.
+
 [19] Iosa, M., Morone, G., Fusco, A., Castagnoli, M., Fusco, F. R., Pratesi, L., & Paolucci, S. (2015). Leap motion controlled videogame-based therapy for rehabilitation of elderly patients with subacute stroke: a feasibility pilot study. _Topics in stroke rehabilitation_, _22_(4), 306-316.
+
 [20] Bao, X., Mao, Y., Lin, Q., Qiu, Y., Chen, S., Li, L., ... & Huang, D. (2013). Mechanism of Kinect-based virtual reality training for motor functional recovery of upper limbs after subacute stroke. _Neural regeneration research_, _8_(31), 2904-2913.
+
 [21]Sin, H., & Lee, G. (2013). Additional virtual reality training using Xbox Kinect in stroke survivors with hemiplegia. _American journal of physical medicine & rehabilitation_, _92_(10), 871-880.
+
 [22] |Park, D. S., Lee, D. G., Lee, K., & Lee, G. (2017). Effects of virtual reality training using Xbox Kinect on motor function in stroke survivors: a preliminary study. _Journal of Stroke and Cerebrovascular Diseases_, _26_(10), 2313-2319.
+
 [23] Bogatinov, D., Lameski, P., Trajkovik, V., & Trendova, K. M. (2017). Firearms training simulator based on low cost motion tracking sensor. _Multimedia tools and applications_, _76_, 1403-1418.
+
 [24] Kyan, M., Sun, G., Li, H., Zhong, L., Muneesawang, P., Dong, N., ... & Guan, L. (2015). An approach to ballet dance training through ms kinect and visualization in a cave virtual reality environment. _ACM Transactions on Intelligent Systems and Technology (TIST)_, _6_(2), 1-37.
+
 [25] Zhang, Y., Xie, B., Huang, H., Ogawa, E., You, T., & Yu, L. F. (2019, May). Pose-guided level design. In _Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems_(pp. 1-12).
+
 [26] He, Z. D., Hu, R. M., & Xu, J. C. (2014). The development of badminton auxiliary training system based on Kinect motion capture. _Advanced Materials Research_, _926_, 2735-2738.
+
 [27] Liu, H., Wang, Z., Mousas, C., & Kao, D. (2020, November). Virtual reality racket sports: Virtual drills for exercise and training. In _2020 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)_ (pp. 566-576). IEEE.
+
 [28] Lin, Y. H., Huang, S. Y., Hsiao, K. F., Kuo, K. P., & Wan, L. T. (2013). A kinect-based system for golf beginners’ training. In _Information Technology Convergence: Security, Robotics, Automations and Communication_ (pp. 121-129). Springer Netherlands.
+
 [29] Howard, M. C. (2019). Virtual reality interventions for personal development: A meta-analysis of hardware and software. _Human–Computer Interaction_, _34_(3), 205-239.
+
 [30] Papachristos, N. M., Vrellis, I., & Mikropoulos, T. A. (2017, July). A comparison between oculus rift and a low-cost smartphone VR headset: immersive user experience and learning. In _2017 IEEE 17th International Conference on Advanced Learning Technologies (ICALT)_ (pp. 477-481). IEEE.
+
 [31] Moro, C., Štromberga, Z., & Stirling, A. (2017). Virtualisation devices for student learning: Comparison between desktop-based (Oculus Rift) and mobile-based (Gear VR) virtual reality in medical and health science education. _Australasian journal of educational technology_, _33_(6).
+
 [32] Reichard, A. A., & Jackson, L. L. (2010). Occupational injuries among emergency responders. _American journal of industrial medicine_, _53_(1), 1-11.
+
 [33] Karabiyik, U., Mousas, C., Sirota, D., Iwai, T., & Akdere, M. (2019). A virtual reality framework for training incident first responders and digital forensic investigators. In _Advances in Visual Computing: 14th International Symposium on Visual Computing, ISVC 2019, Lake Tahoe, NV, USA, October 7–9, 2019, Proceedings, Part II 14_ (pp. 469-480). Springer International Publishing.
+
 [34] Koutitas, G., Smith, S., & Lawrence, G. (2021). Performance evaluation of AR/VR training technologies for EMS first responders. _Virtual Reality_, _25_(1), 83-94.
+
 [35] Melnick, K. (2019). NYPD uses location-based VR for active shooter training. _VR Scout_.
+
 [36]  Wilkerson, W., Avstreih, D., Gruppen, L., Beier, K. P., & Woolliscroft, J. (2008). Using immersive simulation for training first responders for mass casualty incidents. _Academic emergency medicine_, _15_(11), 1152-1159
 
 [37] Conges, A., Evain, A., Benaben, F., Chabiron, O., & Rebiere, S. (2020, March). Crisis management exercises in virtual reality. In _2020 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)_ (pp. 87-92). IEEE.
 
-
 [38] Mossel, A., Froeschl, M., Schoenauer, C., Peer, A., Goellner, J., and Kaufmann, H. (2017). “Vronsite: Towards Immersive Training of First Responder Squad Leaders in Untethered Virtual Reality”, in IEEE Virtual Reality, Los Angeles, CA, March 18, 2017 (New York, NY: IEEE), 357–358. doi:10.1109/VR.2017. 7892324
 
 [39] Mossel, A., Froeschl, M., Schoenauer, C., Peer, A., Goellner, J., & Kaufmann, H. (2017, March). VROnSite: Towards immersive training of first responder squad leaders in untethered virtual reality. In _2017 IEEE Virtual Reality (VR)_ (pp. 357-358). IEEE.
-[40] Backlund, P., Engstrom, H., Hammar, C., Johannesson, M., & Lebram, M. (2007, July). Sidh–a game based firefighter training simulation. In _2007 11th International Conference Information Visualization (IV'07)_ (pp. 899-907). IEEE.
-[41] Cha, M., Han, S., Lee, J., & Choi, B. (2012). A virtual reality based fire training simulator integrated with fire dynamics data. _Fire safety journal_, _50_, 12-24.
-[42] Pinto, D., Peixoto, B., Gonçalves, G., Melo, M., Amorim, V., and Bessa, M. (2019). “Developing Training Applications for Hydrogen Emergency Response Training”, in 2019 International Conference on Graphics and Interaction (ICGI), Faro, Portugal, Nov 21, 2019 (New York, NY: IEEE), 130–136. doi:10.1109/ICGI47575.2019.8955091
-[43] Koutitas, G., Smith, K. S., Lawrence, G., Metsis, V., Stamper, C., Trahan, M., & Lehr, T. (2019, June). A virtual and augmented reality platform for the training of first responders of the ambulance bus. In _Proceedings of the 12th ACM International Conference on Pervasive Technologies Related to Assistive Environments_ (pp. 299-302).
 
+[40] Backlund, P., Engstrom, H., Hammar, C., Johannesson, M., & Lebram, M. (2007, July). Sidh–a game based firefighter training simulation. In _2007 11th International Conference Information Visualization (IV'07)_ (pp. 899-907). IEEE.
+
+[41] Cha, M., Han, S., Lee, J., & Choi, B. (2012). A virtual reality based fire training simulator integrated with fire dynamics data. _Fire safety journal_, _50_, 12-24.
+
+[42] Pinto, D., Peixoto, B., Gonçalves, G., Melo, M., Amorim, V., and Bessa, M. (2019). “Developing Training Applications for Hydrogen Emergency Response Training”, in 2019 International Conference on Graphics and Interaction (ICGI), Faro, Portugal, Nov 21, 2019 (New York, NY: IEEE), 130–136. doi:10.1109/ICGI47575.2019.8955091
+
+[43] Koutitas, G., Smith, K. S., Lawrence, G., Metsis, V., Stamper, C., Trahan, M., & Lehr, T. (2019, June). A virtual and augmented reality platform for the training of first responders of the ambulance bus. In _Proceedings of the 12th ACM International Conference on Pervasive Technologies Related to Assistive Environments_ (pp. 299-302).
 
 [44] Salas, E., Wilson, K. A., Burke, C. S., and Priest, H. A. (2005). Using Simulation- Based Training to Improve Patient Safety: What Does it Take? Jt. Comm. J. Qual. Patient Saf. 31, 363–371. doi:10.1016/s1553-7250(05)31049-x
 
 [45] Hurd, O., Kurniawan, S., & Teodorescu, M. (2019, March). Virtual reality video game paired with physical monocular blurring as accessible therapy for amblyopia. In _2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)_ (pp. 492-499). IEEE.
+
 [46] Grantcharov, T. P., Kristiansen, V. B., Bendix, J., Bardram, L., Rosenberg, J., & Funch-Jensen, P. (2004). Randomized clinical trial of virtual reality simulation for laparoscopic skills training. _Journal of British Surgery_, _91_(2), 146-150.
+
 [47] Taffinder, N., Sutton, C., Fishwick, R. J., McManus, I. C., & Darzi, A. (1998). Validation of virtual reality to teach and assess psychomotor skills in laparoscopic surgery: results from randomised controlled studies using the MIST VR laparoscopic simulator. In _Medicine meets virtual reality_ (pp. 124-130). IOS Press.
+
 [48] Seymour, N. E., Gallagher, A. G., Roman, S. A., O’brien, M. K., Bansal, V. K., Andersen, D. K., & Satava, R. M. (2002). Virtual reality training improves operating room performance: results of a randomized, double-blinded study. _Annals of surgery_, _236_(4), 458-464.
+
 [49] Gurusamy, K. S., Aggarwal, R., Palanivelu, L., and Davidson, B. R. (2009). Virtual Reality Training for Surgical Trainees in Laparoscopic Surgery. Cochrane Database Syst. Rev. 1, CD006575. doi:10.1002/14651858.cd006575.pub2
+
 [50] Fukumori, S., Gofuku, A., Isatake, K., & Sato, K. (2014, October). Mirror thrapy system based virtual reality for chronic pain in home use. In _IECON 2014-40th Annual Conference of the IEEE Industrial Electronics Society_ (pp. 4034-4039). IEEE.
+
 [51] Ambron, E., Miller, A., Kuchenbecker, K. J., Buxbaum, L. J., & Coslett, H. (2018). Immersive low-cost virtual reality treatment for phantom limb pain: evidence from two cases. _Frontiers in neurology_, _9_, 337238.
+
 [52] Gurusamy, K. S., Aggarwal, R., Palanivelu, L., & Davidson, B. R. (2009). Virtual reality training for surgical trainees in laparoscopic surgery. _Cochrane database of systematic reviews_, (1).
+
 [53] Rizzo, A., Hartholt, A., Grimani, M., Leeds, A., & Liewer, M. (2014). Virtual reality exposure therapy for combat-related posttraumatic stress disorder. _Computer_, _47_(7), 31-37.
+
 [54] Kenny, P. G., Parsons, T. D., and Rizzo, A. A. (2009). “Human Computer Interaction in Virtual Standardized Patient Systems,” in Human-Computer Interaction. Interacting in Various Application Domains. Editor J. A. Jacko (Berlin, Heidelberg: Springer Berlin Heidelberg)), 514–523. doi:10.1007/978-3- 642-02583-9_56
+
 [55] Huguet, L., Lourdeaux, D., Sabouret, N., & Ferrer, M. H. (2016, April). Perturbed Communication in a Virtual Environment to Train Medical Team Leaders. In _MMVR_ (pp. 146-149).
 
 
