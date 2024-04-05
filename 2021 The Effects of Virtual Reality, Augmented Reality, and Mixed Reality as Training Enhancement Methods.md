@@ -78,80 +78,89 @@ $ 整體擔憂：
 
 
 
-
-
-
-⭢
-⭢
-⭢
-⭢
-⭢
-
-
-
-
-
-
-
-
-
-
-
-
 ## 研究方法：
 
+＄整體總結：
 與MR、VR和AR培訓轉移相關的合格文章納入meta分析。計算效應大小以確定基於 XR 的因數、基於受訓者的因數和基於任務的因數對基於 XR 的培訓后的績效測量的影響。
+
+
+＄Searching the Literature
+使用PRISMA進行文獻搜索(Moher et al., 2009).
+![upgit_20240405_1712300209.png](https://raw.githubusercontent.com/kcwc1029/obsidian-upgit-image/main/2024/04/upgit_20240405_1712300209.png)
+
+
+＄Variables
+結果變量：XR 訓練結束後的某個表現維度。
+預測變量：（a）與模擬有關的變量，如沈浸感；（b）與受訓者有關的變量，如年齡；或（c）與任務有關的變量，如任務難度。
+==The outcome variable, in all included studies, was some dimension of performance taken after training in XR had occurred. Predictor variables fell into three general categories related to (a) the simulation, such as immersiveness, (b) the trainee, such as age, or (c) the task, such as task difficulty.==
+
+
+＄Task Type
+將預測變數依照性能分類成三種任務型別：
+1 認知任務（Cognitive tasks）：
+- 參與者獲得新資訊，但不需要在物理意義上使用它
+- 認知任務包括一些情景，參與者在這些情景中學到的信息必須在以後的應用環境中直接記憶（如回憶測試）或使用。==Cognitive tasks included sit- uations in which participants learned informa- tion that later had to be either remembered directly, such as in a test of recall, or utilized in a subsequent applied setting.==
+
+（依據GPT給的範例）
+- **回憶測試 (Recall Tests)**：參與者需要回想先前學到的信息，例如記憶單詞、數字序列或事件細節。
+- **問題解決 (Problem Solving)**：參與者在特定情境中需要找到解決方案，例如解開謎題、計算數學問題或制定策略。
+- **注意力分配 (Attention Allocation)**：參與者需要在多個刺激之間分配注意力，例如在繁忙的交通中保持警惕。
+- **認知負荷 (Cognitive Load)**：參與者在處理信息時的認知負荷，例如同時記住多個事項。
+
+2 體能任務（Physical tasks）：
+- 參與者被要求練習或學習一些空間、程序任務
+- 體力任務涉及某種身體訓練，如平衡或航空活動。這里主要是精神運動技能的同化。==Physical tasks involved some sort of bodily training, such as balance or aero- bic activities. The predominance here was on psychomotor skill assimilation.==
+
+（依據GPT給的範例）
+- **平衡訓練 (Balance Training)**：參與者需要保持平衡，例如站在單腳上或在不穩定的表面上行走。
+- **航空活動 (Aerobic Activities)**：這包括跑步、游泳、騎自行車等需要持久耐力的運動。
+- **精神運動技能 (Psychomotor Skills)**：例如打擊球、舞蹈、體操等需要協調和技巧的運動。
+
+3 混合任務（Mixed tasks）：
+- 有些任務同時包含體能和認知要求，例如，一項維護任務要求參與者在使用所學體能技能的同時，回憶適用的程序信息（見 Marras & Hancock, 2014）。==Some tasks included combina- tions of both physical and cognitive require- ments, such as a maintenance task that required participants to use learned physical skills while simultaneously recalling applicable procedural information (see Marras & Hancock, 2014).==
+- （依據GPT給的範例）一名技術人員在維修機器時需要使用所學的體能技能，同時回憶適用的程序信息。
+
 
 ## 研究結果：
 
-擴展現實相較於傳統方法，同樣有效的培訓機制。
-XR 的價值在於在排除傳統方法的情況下提供培訓，比如在危險或成本高昂的情況下傳統培訓可能變得不可能的情況下。
-==The value of XR then lies in providing training in circumstances, which exclude traditional methods, such as situations when danger or cost may make traditional training impossible.==
+＄結果總結：
+- 擴展現實相較於傳統方法，同樣有效的培訓機制。
+- XR 的價值在於在排除傳統方法的情況下提供培訓，比如在危險或成本高昂的情況下傳統培訓可能變得不可能的情況下。==The value of XR then lies in providing training in circumstances, which exclude traditional methods, such as situations when danger or cost may make traditional training impossible.==
+
+＄訓練中使用VR已被證明會影響存在感和沉浸感，以及心流的心理維度（見Lackey等人，2016）。==the use of VR in training has been shown to affect presence and immersion, as well as the psychological dimension of flow (see Lackey et al., 2016).==
+
+＄但是，必須承認 XR經常被要求提供卓越的培訓能力（特別是在大眾媒體和各種供應商中）。目前的薈萃分析結果表明，這一命題的理由充其量是“未經證實”==it must be acknowledged that XR has often been held out to offer superior train- ing capacities (especially in popular press and by various vendors). The results of the present meta-analysis indicate that the case for this proposition is at best “not proven.”==
 
 
 
+＄圖表顯示：
+雖然負效應量（分別為 d = −.07 和 d = −.13）表明使用虛擬環境時訓練效率略有下降，從本質上講，這些發現表明，XR體驗與傳統培訓方法一樣有效。==In essence, these findings indicate that XR experiences are as effective as traditional training approaches.==
+![[Pasted image 20240405154113.png]]
 
 
+＄圖表顯示：
+這些研究結果表明，雖然虛擬沈浸感較強的訓練條件比真實訓練環境的成績稍差，但大多數人在訓練後會表現出相似的成績，而虛擬沈浸感的程度則較低。
+==These findings indicate that, though a more virtually immersive training condition results in slightly worse performance than a real training setting, the majority of individuals will show similar results after training, regard- less of the level of virtual immersiveness.==
+（這邊我有用GPT整段跑一次，他是這樣說：
+儘管更虛擬沉浸式的訓練條件的表現稍微比真實訓練環境差，但大多數人在訓練後的結果相似，無論虛擬沉浸度的水平如何。）
+![[截圖 2024-04-05 下午3.47.19.png]]
+
+> [!DANGER] 老師我有問題
+> 他這邊居然說“儘管更虛擬沉浸式的訓練條件的表現稍微比真實訓練環境差”，不就是在講說更VR也不是好事咪（那這樣不就是在將說，歐齁一直VR下去也不是好事www）
 
 
-
-
-
-
-
-
-
-
-
-
-
-## 研究結果
-
-針對本研究的相關限制：
-1. 個體差異：士兵與老年中風患者截不同。需要進行研究，並通過保持類比平臺、任務和績效測量等變數不變並研究不同人群的表現，從而實現人群之間的績效比較
-2. 設備：目前使用VR設備可能與真實環境存在極大差異。研究人員最好使用多種技術多次完成研究，特別是當質量差異已經量化時[5]。
-3. 任務指定：並非所有任務類型都同樣受益，身體/認知劃分可能不是最關鍵的。
-  ![[截圖 2024-03-30 晚上11.20.40.png]]
-
-
-
-## 研究圖表
-
-1. 認知任務。：認知任務包括參與者學習信息的情況，後來必須被直接記住，例如在回憶測試中，或在隨後的應用環境中使用。
-2. 體力任務
-3. 混合任務：包括身體和認知要求的結合，例如維護任務，要求參與者使用學到的身體技能，同時回憶適用的程式資訊。
-
+＄圖表顯示：
 ![[截圖 2024-03-30 晚上11.26.55.png]]
+結果表明，XR 是一種更適合進行體力任務訓練的媒介（d = .36），但除此之外，模擬學習的任務類型對成績結果並無影響。==Table 3 shows the effect size based on task type. Results show that XR is a more suitable medium for training on physical tasks (d = .36), but otherwise the type of task learned in simulation does not have an effect on the performance outcome.==
+> [!DANGER] 老師我有問題
+> 他這邊的the type of task learned in simulation，我用deepl翻譯是【數位學習、模擬學習】。但VR他主要不就是應用在將實體的東西模擬放在虛擬物體嗎？
+> 就我可以理解在這篇VR應用中提到的【physical tasks】【cogntive tasks】，但我不太曉得他這邊提到的the type of task learned in simulation是指什麼（歪頭
 
 
-## 引用
+＄針對本研究的相關限制：
+1. 個體差異：士兵與老年中風患者截不同。需要進行研究，並通過保持類比平臺、任務和績效測量等變數不變並研究不同人群的表現，從而實現人群之間的績效比較
+2. 設備：目前使用VR設備可能與真實環境存在極大差異。研究人員最好使用多種技術多次完成研究，特別是當質量差異已經量化時。
+3. 任務指定：並非所有任務類型都同樣受益，身體/認知劃分可能不是最關鍵的。
 
-[1] Holding, D. H. (Ed.). (1989). Human Skills. John Wiley & Sons Incorporated.
 
-[2] Salas, E., Bowers, C. A., & Rhodenizer, L. (1998). It is not how much you have but how you use it: Toward a rational use of simulation to support aviation training. _The international journal of aviation psychology_, _8_(3), 197-208.
 
-[3] Hancock, P. A., & Hoffman, R. R. (2015). Keeping up with intelligent technology. _IEEE Intelligent Systems_, _30_(1), 62-65.
-
-[4] Roscoe, S. N. (1971). Incremental transfer effectiveness. _Human Factors_, _13_(6), 561-567.
-
-[5] Hancock, P. A., Sawyer, B. D., & Stafford, S. (2015). The effects of display size on performance. _Ergonomics_, _58_(3), 337-354.

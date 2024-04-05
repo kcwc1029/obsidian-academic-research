@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "2021 The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3e30e18d2853d60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "A Review on Virtual Reality Skill Training Applications.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,19 +159,23 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "647ed6e92fb85055",
+  "active": "b3e30e18d2853d60",
   "lastOpenFiles": [
+    "2021 The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods.md",
+    "attachments/截圖 2024-04-05 下午3.47.19.png",
+    "A Review on Virtual Reality Skill Training Applications.md",
+    "2024.04.05 詢問老師問題.md",
+    "尋問老師問題",
+    "attachments/Pasted image 20240405154113.png",
     "Virtual reality and collaborative learning a systematic literature review.md",
     "英文雜誌/2024.04 ALL+.md",
     "英文雜誌/attachments/截圖 2024-04-04 下午5.05.02.png",
     "英文雜誌/attachments/截圖 2024-04-04 下午5.04.55.png",
-    "2021 The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods.md",
     "自己撰寫的/虛擬實境&多人協作&醫療急救文獻撰寫2.1.0.md",
     "（之後處理）Simulation Applications in Emergency Medical Services.md",
     "（之後處理）An Immersive Multi-User Virtual Reality for Emergency Simulation Training Usability Study.md",
     "（之後處理）A virtual emergency learning lessons from remote medical student education during the COVID-19 pandemic.md",
     "（之後處理）A scoping review of metaverse in emergency medicine.md",
-    "A Review on Virtual Reality Skill Training Applications.md",
     "英文雜誌/attachments/截圖 2024-04-01 下午4.13.02.png",
     "英文雜誌/attachments/截圖 2024-04-01 下午4.12.53.png",
     "英文雜誌/attachments",
@@ -173,14 +190,11 @@
     "20210331/Towards Collaborative Learning in Virtual Reality  A.pdf",
     "20210331/Haptic-enabled collaborative learning in virtual reality for schools.pdf",
     "README.md",
-    "20240329/A virtual emergency learning lessons from remote medical student education during the COVID-19 pandemic.pdf",
     "().md",
     "attachments/PRISMA 2020声明流程图(中文).png",
     "未命名.canvas",
     "2024-03-31.md",
     "attachments/ob字型選擇.png",
-    "attachments/image1.png",
-    "attachments/截圖 2024-03-30 晚上11.26.55.png",
     "Computer-supported Collaborative Learning in Programming Education  A Systematic Literature Review.md",
     "====== 研究對象 ============ 理論框架 ============ 研究問題 ============ 研究目的 ======未命名.md",
     "^1.md"
