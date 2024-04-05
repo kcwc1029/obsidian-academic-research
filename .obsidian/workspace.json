@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Virtual reality and collaborative learning a systematic literature review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cc399c1ac453ad6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Virtual reality and collaborative learning a systematic literature review.md",
+                "file": "A Review on Virtual Reality Skill Training Applications.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Virtual reality and collaborative learning a systematic literature review.md",
+                "file": "A Review on Virtual Reality Skill Training Applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Virtual reality and collaborative learning a systematic literature review.md",
+                "file": "A Review on Virtual Reality Skill Training Applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Virtual reality and collaborative learning a systematic literature review.md"
+                "file": "A Review on Virtual Reality Skill Training Applications.md"
               }
             }
           }
@@ -159,12 +146,19 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "2cc399c1ac453ad6",
+  "active": "647ed6e92fb85055",
   "lastOpenFiles": [
-    "The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods.md",
-    "A Review on Virtual Reality Skill Training Applications.md",
     "Virtual reality and collaborative learning a systematic literature review.md",
     "英文雜誌/2024.04 ALL+.md",
+    "英文雜誌/attachments/截圖 2024-04-04 下午5.05.02.png",
+    "英文雜誌/attachments/截圖 2024-04-04 下午5.04.55.png",
+    "2021 The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods.md",
+    "自己撰寫的/虛擬實境&多人協作&醫療急救文獻撰寫2.1.0.md",
+    "（之後處理）Simulation Applications in Emergency Medical Services.md",
+    "（之後處理）An Immersive Multi-User Virtual Reality for Emergency Simulation Training Usability Study.md",
+    "（之後處理）A virtual emergency learning lessons from remote medical student education during the COVID-19 pandemic.md",
+    "（之後處理）A scoping review of metaverse in emergency medicine.md",
+    "A Review on Virtual Reality Skill Training Applications.md",
     "英文雜誌/attachments/截圖 2024-04-01 下午4.13.02.png",
     "英文雜誌/attachments/截圖 2024-04-01 下午4.12.53.png",
     "英文雜誌/attachments",
@@ -178,7 +172,6 @@
     "Literature/A Review on Virtual Reality Skill Training Applications.pdf",
     "20210331/Towards Collaborative Learning in Virtual Reality  A.pdf",
     "20210331/Haptic-enabled collaborative learning in virtual reality for schools.pdf",
-    "自己撰寫的/虛擬實境&多人協作&醫療急救文獻撰寫2.1.0.md",
     "README.md",
     "20240329/A virtual emergency learning lessons from remote medical student education during the COVID-19 pandemic.pdf",
     "().md",
@@ -188,12 +181,6 @@
     "attachments/ob字型選擇.png",
     "attachments/image1.png",
     "attachments/截圖 2024-03-30 晚上11.26.55.png",
-    "attachments/截圖 2024-03-30 晚上11.20.40.png",
-    "attachments/截圖 2024-03-30 晚上11.20.40 1.png",
-    "（之後處理）An Immersive Multi-User Virtual Reality for Emergency Simulation Training Usability Study.md",
-    "（之後處理）A scoping review of metaverse in emergency medicine.md",
-    "（之後處理）Simulation Applications in Emergency Medical Services.md",
-    "（之後處理）A virtual emergency learning lessons from remote medical student education during the COVID-19 pandemic.md",
     "Computer-supported Collaborative Learning in Programming Education  A Systematic Literature Review.md",
     "====== 研究對象 ============ 理論框架 ============ 研究問題 ============ 研究目的 ======未命名.md",
     "^1.md"
