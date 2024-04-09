@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "郁珮老師這邊的論文/Enabling Write-Reduction Multiversion Scheme With Efficient Dual-Range Query Over NVRAM.md",
+                "file": "英文雜誌/2024.04 ALL+.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "郁珮老師這邊的論文/Enabling Write-Reduction Multiversion Scheme With Efficient Dual-Range Query Over NVRAM.md",
+                "file": "英文雜誌/2024.04 ALL+.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "郁珮老師這邊的論文/Enabling Write-Reduction Multiversion Scheme With Efficient Dual-Range Query Over NVRAM.md",
+                "file": "英文雜誌/2024.04 ALL+.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "郁珮老師這邊的論文/Enabling Write-Reduction Multiversion Scheme With Efficient Dual-Range Query Over NVRAM.md"
+                "file": "英文雜誌/2024.04 ALL+.md"
               }
             }
           }
@@ -173,8 +173,11 @@
   },
   "active": "cb022bc7d90577f7",
   "lastOpenFiles": [
-    "README.md",
+    "英文雜誌/attachments/截圖 2024-04-10 凌晨1.33.07.png",
+    "英文雜誌/attachments/截圖 2024-04-09 凌晨12.49.29.png",
+    "英文雜誌/attachments/截圖 2024-04-09 凌晨12.48.45.png",
     "郁珮老師這邊的論文/Enabling Write-Reduction Multiversion Scheme With Efficient Dual-Range Query Over NVRAM.md",
+    "README.md",
     "硬體基本知識.md",
     "英文雜誌/2024.04 ALL+.md",
     "世燁老師這邊的論文/2020 An Immersive Multi-User Virtual Reality for Emergency Simulation Training Usability Study.md",
@@ -210,15 +213,12 @@
     "attachments/截圖 2024-04-06 凌晨1.30.48.png",
     "attachments/截圖 2024-04-05 下午3.47.19.png",
     "attachments/Pasted image 20240405154113.png",
-    "英文雜誌/attachments/截圖 2024-04-04 下午5.05.02.png",
-    "英文雜誌/attachments/截圖 2024-04-04 下午5.04.55.png",
     "（之後處理）Simulation Applications in Emergency Medical Services.md",
     "（之後處理）An Immersive Multi-User Virtual Reality for Emergency Simulation Training Usability Study.md",
     "（之後處理）A virtual emergency learning lessons from remote medical student education during the COVID-19 pandemic.md",
     "（之後處理）A scoping review of metaverse in emergency medicine.md",
     "().md",
     "未命名.canvas",
-    "2024-03-31.md",
-    "Computer-supported Collaborative Learning in Programming Education  A Systematic Literature Review.md"
+    "2024-03-31.md"
   ]
 }
