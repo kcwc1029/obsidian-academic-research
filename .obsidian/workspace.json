@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "44ce81213334ab95",
+        "id": "3c7cc607e7401d25",
         "type": "tabs",
         "children": [
           {
-            "id": "ecaae37558c797e4",
+            "id": "fda6d8d7c2f3f2e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英文雜誌/2024.04 ALL+.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb022bc7d90577f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "郁珮老師這邊的論文/Enabling Write-Reduction Multiversion Scheme With Efficient Dual-Range Query Over NVRAM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b83d3562a958616d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "郁珮老師這邊的論文/Enabling Write-Reduction Multiversion Scheme With Efficient Dual-Range Query Over NVRAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "郁珮老師這邊的論文/Enabling Write-Reduction Multiversion Scheme With Efficient Dual-Range Query Over NVRAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "郁珮老師這邊的論文/Enabling Write-Reduction Multiversion Scheme With Efficient Dual-Range Query Over NVRAM.md"
               }
             }
           }
@@ -146,24 +171,37 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "ecaae37558c797e4",
+  "active": "cb022bc7d90577f7",
   "lastOpenFiles": [
+    "README.md",
+    "郁珮老師這邊的論文/Enabling Write-Reduction Multiversion Scheme With Efficient Dual-Range Query Over NVRAM.md",
+    "硬體基本知識.md",
+    "英文雜誌/2024.04 ALL+.md",
+    "世燁老師這邊的論文/2020 An Immersive Multi-User Virtual Reality for Emergency Simulation Training Usability Study.md",
+    "郁珮老師這邊的論文/Literature",
+    "郁珮老師這邊的論文/閱讀中/Enabling Write-Reduction Multiversion Scheme With Efficient Dual-Range Query Over NVRAM.pdf",
+    "郁珮老師這邊的論文/閱讀中",
+    "郁珮老師這邊的論文/未讀中",
+    "郁珮老師這邊的論文/未命名檔案夾",
+    "郁珮老師這邊的論文/未閱讀",
+    "郁珮老師這邊的論文",
+    "老師這邊的論文",
+    "未命名檔案夾",
+    "世燁老師這邊的論文/A Review on Virtual Reality Skill Training Applications.md",
+    "世燁老師這邊的論文/Virtual reality and collaborative learning a systematic literature review.md",
+    "世燁老師這邊的論文/2022 Cooperative and Collaborative Learning An Innovation in Teaching Medical Physiology.md",
+    "世燁老師這邊的論文/自己撰寫的/虛擬實境&多人協作&醫療急救文獻撰寫2.1.0.md",
+    "世燁老師這邊的論文/自己撰寫的/SCI論文Introduction萬能寫作公式.md",
+    "世燁老師這邊的論文/自己撰寫的",
+    "世燁老師這邊的論文/2021 The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods.md",
+    "2022 Cooperative and Collaborative Learning An Innovation in Teaching Medical Physiology.md",
+    "2021 The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods.md",
+    "attachments/截圖 2024-04-08 下午2.59.47.png",
     "Virtual reality and collaborative learning a systematic literature review.md",
     "2020 An Immersive Multi-User Virtual Reality for Emergency Simulation Training Usability Study.md",
-    "Literature/An Immersive Multi-User Virtual Reality for Emergency Simulation Training Usability Study.pdf",
-    "2021 The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods.md",
-    "20240329/A virtual emergency learning lessons from remote medical student education during the COVID-19 pandemic.pdf",
-    "Literature/The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods A Meta-Analysis.pdf",
-    "README.md",
     "attachments/Pasted image 20240406170624.png",
     "A Review on Virtual Reality Skill Training Applications.md",
-    "Literature/統整性文獻/A Review on Virtual Reality Skill Training Applications.pdf",
     "自己撰寫的/虛擬實境&多人協作&醫療急救文獻撰寫2.1.0.md",
-    "Literature/統整性文獻",
-    "20240328/A scoping review of metaverse in emergency medicine.pdf",
-    "20240328/to_odd Simulation Applications in.pdf",
-    "20240328/A scoping review of metaverse in emergency medicine 1.pdf",
-    "Literature/統整性文獻/Virtual reality and collaborative learning  a systematic literature review.pdf",
     "自己撰寫的/SCI論文Introduction萬能寫作公式.md",
     "2024.04.05 詢問老師問題.md",
     "attachments/截圖 2024-04-06 凌晨1.51.19.png",
@@ -171,21 +209,16 @@
     "attachments/截圖 2024-04-06 凌晨1.44.44.png",
     "attachments/截圖 2024-04-06 凌晨1.30.48.png",
     "attachments/截圖 2024-04-05 下午3.47.19.png",
-    "尋問老師問題",
     "attachments/Pasted image 20240405154113.png",
-    "英文雜誌/2024.04 ALL+.md",
     "英文雜誌/attachments/截圖 2024-04-04 下午5.05.02.png",
     "英文雜誌/attachments/截圖 2024-04-04 下午5.04.55.png",
     "（之後處理）Simulation Applications in Emergency Medical Services.md",
     "（之後處理）An Immersive Multi-User Virtual Reality for Emergency Simulation Training Usability Study.md",
     "（之後處理）A virtual emergency learning lessons from remote medical student education during the COVID-19 pandemic.md",
     "（之後處理）A scoping review of metaverse in emergency medicine.md",
-    "英文雜誌/attachments/截圖 2024-04-01 下午4.13.02.png",
     "().md",
     "未命名.canvas",
     "2024-03-31.md",
-    "Computer-supported Collaborative Learning in Programming Education  A Systematic Literature Review.md",
-    "====== 研究對象 ============ 理論框架 ============ 研究問題 ============ 研究目的 ======未命名.md",
-    "^1.md"
+    "Computer-supported Collaborative Learning in Programming Education  A Systematic Literature Review.md"
   ]
 }
