@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "da18147f675fd8cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "世燁老師這邊的論文/未閱讀/異常感測ssensor/2021 Smart Anomaly Detection in Sensor Systems A Multi-Perspective Review.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b83d3562a958616d",
             "type": "leaf",
             "state": {
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "世燁老師這邊的論文/未閱讀/異常感測ssensor/2021 Smart Anomaly Detection in Sensor Systems A Multi-Perspective Review.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "世燁老師這邊的論文/未閱讀/異常感測ssensor/2021 Smart Anomaly Detection in Sensor Systems A Multi-Perspective Review.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "世燁老師這邊的論文/未閱讀/異常感測ssensor/2021 Smart Anomaly Detection in Sensor Systems A Multi-Perspective Review.md"
+                "file": "README.md"
               }
             }
           }
@@ -183,7 +171,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "da18147f675fd8cc",
+  "active": "b83d3562a958616d",
   "lastOpenFiles": [
     "英文雜誌/2024.04 ALL+.md",
     "世燁老師這邊的論文/未閱讀/異常感測ssensor/2021 Smart Anomaly Detection in Sensor Systems A Multi-Perspective Review.md",

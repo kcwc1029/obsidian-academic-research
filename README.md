@@ -37,3 +37,4 @@ obsidian callout
 
 
 ＄寫conclusion 的limitation，可以參考[[2020 An Immersive Multi-User Virtual Reality for Emergency Simulation Training Usability Study]]的的limitation
+
