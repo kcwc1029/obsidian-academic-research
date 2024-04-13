@@ -38,3 +38,14 @@ obsidian callout
 
 ＄寫conclusion 的limitation，可以參考[[2020 An Immersive Multi-User Virtual Reality for Emergency Simulation Training Usability Study]]的的limitation
 
+
+＄安全的研討會投影片大綱。
+- Introduction
+- Research Framework/Research Question
+- Current Studies/Literature Review
+- Research Methodology
+- Data
+- Results
+- Analysis
+- Conclusion/Future Studies
+
