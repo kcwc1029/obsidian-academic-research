@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024.05.05 實作心得.md",
+                "file": "世燁老師這邊的報告/2024.05.05 實作心得.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024.05.05 實作心得.md",
+                "file": "世燁老師這邊的報告/2024.05.05 實作心得.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024.05.05 實作心得.md",
+                "file": "世燁老師這邊的報告/2024.05.05 實作心得.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024.05.05 實作心得.md"
+                "file": "世燁老師這邊的報告/2024.05.05 實作心得.md"
               }
             }
           }
@@ -231,11 +231,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "a7852e8fc4f11666",
+  "active": "4cf2ae5e2e5e1670",
   "lastOpenFiles": [
     "attachments/Pasted image 20240504181021.png",
     "多變量簡介.md",
-    "2024.05.05 實作心得.md",
+    "世燁老師這邊的報告/2024.05.05 實作心得.md",
     "README.md",
     "集中趨勢（central tendency）.md",
     "SPSS/中介分析（meidation analysis）.md",
