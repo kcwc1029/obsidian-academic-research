@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "textFontFamily": "BiauKai",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "page-width"
+  ]
 }

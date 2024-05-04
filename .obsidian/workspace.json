@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3c7cc607e7401d25",
+        "id": "02cfb12c4cc3291f",
         "type": "tabs",
         "children": [
           {
-            "id": "b83d3562a958616d",
+            "id": "6810d193b48cb18f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "統計學/緒論.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d9805b7bded5472",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +32,79 @@
             }
           },
           {
-            "id": "596ffca1a7d83bd4",
+            "id": "2b7072c2f45baeed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2014.04.16【數位雙生AR】簡報重點.md",
+                "file": "SPSS/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b314f20a9b17064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPSS/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47b15c3dd1c4989c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPSS/中介分析（meidation analysis）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5895e5784b05196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "集中趨勢（central tendency）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d726070c4e9c59f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "多變量簡介.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7852e8fc4f11666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024.05.05 實作心得.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -82,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 242.5
   },
   "right": {
     "id": "f881b5380496a60f",
@@ -98,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2014.04.16【數位雙生AR】簡報重點.md",
+                "file": "2024.05.05 實作心得.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2014.04.16【數位雙生AR】簡報重點.md",
+                "file": "2024.05.05 實作心得.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +210,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2014.04.16【數位雙生AR】簡報重點.md"
+                "file": "2024.05.05 實作心得.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 218.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,21 +231,34 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "596ffca1a7d83bd4",
+  "active": "a7852e8fc4f11666",
   "lastOpenFiles": [
+    "attachments/Pasted image 20240504181021.png",
+    "多變量簡介.md",
+    "2024.05.05 實作心得.md",
     "README.md",
-    "2014.04.16【數位雙生AR】簡報重點.md",
+    "集中趨勢（central tendency）.md",
+    "SPSS/中介分析（meidation analysis）.md",
+    "SPSS/T檢定.md",
+    "SPSS/README.md",
+    "SPSS/SPSS軟體基本操作.md",
+    "SPSS/範例檔/spss_4_data.zip",
+    "SPSS/範例檔",
+    "統計學/機率.md",
+    "統計學/緒論.md",
+    "TCP.md",
+    "SPSS",
+    "隨機變數.md",
+    "統計學",
+    "世燁老師這邊的報告/【數位雙生AR】demo/2014.04.16【數位雙生AR】簡報重點.md",
+    "個人相關資訊",
+    "硬體基本知識.md",
     "【數位雙生】2.1.0",
     "世燁老師這邊的報告/【數位雙生AR】demo/~$【數位雙生AR】demo 2.1.0.pptx",
     "英文雜誌/2024.04 ALL+.md",
     "世燁老師這邊的報告/【數位雙生AR】demo/【數位雙生AR】demo 2.1.0.pptx",
     "世燁老師這邊的報告/【數位雙生AR】demo/【數位雙生AR】demo 2.1.0.key",
     "世燁老師這邊的報告/【數位雙生AR】demo",
-    "世燁老師這邊的報告/未命名檔案夾",
-    "世燁老師這邊的報告/【數位雙生AR】demo 2.1.0.key",
-    "世燁老師這邊的報告/【數位雙生AR】demo 2.1.0.pptx",
-    "世燁老師這邊的報告",
-    "未命名檔案夾",
     "世燁老師這邊的論文/未閱讀/異常感測ssensor/2021 Smart Anomaly Detection in Sensor Systems A Multi-Perspective Review.md",
     "世燁老師這邊的論文/合作學習/2022 Cooperative and Collaborative Learning An Innovation in Teaching Medical Physiology.md",
     "世燁老師這邊的論文/XR（VR AR MR）/2021 The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods.md",
@@ -183,30 +268,17 @@
     "英文雜誌/attachments/截圖 2024-04-09 凌晨12.49.29.png",
     "英文雜誌/attachments/截圖 2024-04-09 凌晨12.48.45.png",
     "郁珮老師這邊的論文/Enabling Write-Reduction Multiversion Scheme With Efficient Dual-Range Query Over NVRAM.md",
-    "硬體基本知識.md",
     "世燁老師這邊的論文/2020 An Immersive Multi-User Virtual Reality for Emergency Simulation Training Usability Study.md",
     "世燁老師這邊的論文/A Review on Virtual Reality Skill Training Applications.md",
     "世燁老師這邊的論文/Virtual reality and collaborative learning a systematic literature review.md",
     "世燁老師這邊的論文/2022 Cooperative and Collaborative Learning An Innovation in Teaching Medical Physiology.md",
-    "世燁老師這邊的論文/自己撰寫的/虛擬實境&多人協作&醫療急救文獻撰寫2.1.0.md",
-    "世燁老師這邊的論文/自己撰寫的/SCI論文Introduction萬能寫作公式.md",
-    "世燁老師這邊的論文/2021 The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods.md",
-    "2022 Cooperative and Collaborative Learning An Innovation in Teaching Medical Physiology.md",
-    "2021 The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods.md",
     "attachments/截圖 2024-04-08 下午2.59.47.png",
-    "Virtual reality and collaborative learning a systematic literature review.md",
-    "2020 An Immersive Multi-User Virtual Reality for Emergency Simulation Training Usability Study.md",
     "attachments/Pasted image 20240406170624.png",
-    "A Review on Virtual Reality Skill Training Applications.md",
-    "自己撰寫的/虛擬實境&多人協作&醫療急救文獻撰寫2.1.0.md",
-    "自己撰寫的/SCI論文Introduction萬能寫作公式.md",
-    "2024.04.05 詢問老師問題.md",
     "attachments/截圖 2024-04-06 凌晨1.51.19.png",
     "attachments/截圖 2024-04-06 凌晨1.48.29.png",
     "attachments/截圖 2024-04-06 凌晨1.44.44.png",
     "attachments/截圖 2024-04-06 凌晨1.30.48.png",
     "attachments/截圖 2024-04-05 下午3.47.19.png",
-    "（之後處理）Simulation Applications in Emergency Medical Services.md",
     "未命名.canvas"
   ]
 }
