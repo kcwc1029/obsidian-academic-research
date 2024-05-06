@@ -4,107 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "02cfb12c4cc3291f",
+        "id": "c99b84bee654d33e",
         "type": "tabs",
         "children": [
           {
-            "id": "6810d193b48cb18f",
+            "id": "2b47173c5bb25ca5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "統計學/緒論.md",
+                "file": "SPSS/假設檢定.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0d9805b7bded5472",
+            "id": "5e381708cf05361e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b7072c2f45baeed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SPSS/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b314f20a9b17064",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SPSS/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47b15c3dd1c4989c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SPSS/中介分析（meidation analysis）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5895e5784b05196",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "集中趨勢（central tendency）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d726070c4e9c59f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "多變量簡介.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7852e8fc4f11666",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "世燁老師這邊的報告/2024.05.05 實作心得.md",
+                "file": "SPSS/交叉分析與卡方檢定.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "世燁老師這邊的報告/2024.05.05 實作心得.md",
+                "file": "SPSS/交叉分析與卡方檢定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "世燁老師這邊的報告/2024.05.05 實作心得.md",
+                "file": "SPSS/交叉分析與卡方檢定.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "世燁老師這邊的報告/2024.05.05 實作心得.md"
+                "file": "SPSS/交叉分析與卡方檢定.md"
               }
             }
           }
@@ -233,32 +161,36 @@
   },
   "active": "4cf2ae5e2e5e1670",
   "lastOpenFiles": [
-    "attachments/Pasted image 20240504181021.png",
-    "多變量簡介.md",
-    "世燁老師這邊的報告/2024.05.05 實作心得.md",
-    "README.md",
-    "集中趨勢（central tendency）.md",
-    "SPSS/中介分析（meidation analysis）.md",
-    "SPSS/T檢定.md",
+    "SPSS/假設檢定.md",
+    "SPSS/交叉分析與卡方檢定.md",
+    "交叉分析.md",
+    "SPSS/多變量簡介.md",
+    "SPSS/敘述性統計.md",
     "SPSS/README.md",
+    "README.md",
+    "統計學/緒論.md",
+    "SPSS/中介分析（meidation analysis）.md",
+    "SPSS/範例檔/敘述性統計/MLB2019_1.sav",
+    "SPSS/範例檔/敘述性統計/MLB2019.sav",
+    "SPSS/範例檔/敘述性統計/~$MLB Salary 2019.xlsx",
+    "SPSS/範例檔/敘述性統計/MLB Salary 2019.xlsx",
+    "SPSS/範例檔/敘述性統計",
+    "SPSS/範例檔/未命名檔案夾",
+    "SPSS/範例檔/MLB Salary 2019.xlsx",
+    "SPSS/MLB Salary 2019.xlsx",
+    "SPSS/集中趨勢（central tendency）.md",
     "SPSS/SPSS軟體基本操作.md",
+    "SPSS/T檢定.md",
+    "世燁老師這邊的報告/2024.05.05 實作心得.md",
+    "attachments/Pasted image 20240504181021.png",
     "SPSS/範例檔/spss_4_data.zip",
     "SPSS/範例檔",
     "統計學/機率.md",
-    "統計學/緒論.md",
     "TCP.md",
-    "SPSS",
     "隨機變數.md",
-    "統計學",
     "世燁老師這邊的報告/【數位雙生AR】demo/2014.04.16【數位雙生AR】簡報重點.md",
-    "個人相關資訊",
     "硬體基本知識.md",
-    "【數位雙生】2.1.0",
-    "世燁老師這邊的報告/【數位雙生AR】demo/~$【數位雙生AR】demo 2.1.0.pptx",
     "英文雜誌/2024.04 ALL+.md",
-    "世燁老師這邊的報告/【數位雙生AR】demo/【數位雙生AR】demo 2.1.0.pptx",
-    "世燁老師這邊的報告/【數位雙生AR】demo/【數位雙生AR】demo 2.1.0.key",
-    "世燁老師這邊的報告/【數位雙生AR】demo",
     "世燁老師這邊的論文/未閱讀/異常感測ssensor/2021 Smart Anomaly Detection in Sensor Systems A Multi-Perspective Review.md",
     "世燁老師這邊的論文/合作學習/2022 Cooperative and Collaborative Learning An Innovation in Teaching Medical Physiology.md",
     "世燁老師這邊的論文/XR（VR AR MR）/2021 The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods.md",
@@ -269,16 +201,12 @@
     "英文雜誌/attachments/截圖 2024-04-09 凌晨12.48.45.png",
     "郁珮老師這邊的論文/Enabling Write-Reduction Multiversion Scheme With Efficient Dual-Range Query Over NVRAM.md",
     "世燁老師這邊的論文/2020 An Immersive Multi-User Virtual Reality for Emergency Simulation Training Usability Study.md",
-    "世燁老師這邊的論文/A Review on Virtual Reality Skill Training Applications.md",
-    "世燁老師這邊的論文/Virtual reality and collaborative learning a systematic literature review.md",
-    "世燁老師這邊的論文/2022 Cooperative and Collaborative Learning An Innovation in Teaching Medical Physiology.md",
     "attachments/截圖 2024-04-08 下午2.59.47.png",
     "attachments/Pasted image 20240406170624.png",
     "attachments/截圖 2024-04-06 凌晨1.51.19.png",
     "attachments/截圖 2024-04-06 凌晨1.48.29.png",
     "attachments/截圖 2024-04-06 凌晨1.44.44.png",
     "attachments/截圖 2024-04-06 凌晨1.30.48.png",
-    "attachments/截圖 2024-04-05 下午3.47.19.png",
     "未命名.canvas"
   ]
 }
