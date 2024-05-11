@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c99b84bee654d33e",
+        "id": "72f1c8d93f2c4fcf",
         "type": "tabs",
         "children": [
           {
-            "id": "2b47173c5bb25ca5",
+            "id": "89367055df407181",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPSS/假設檢定.md",
+                "file": "SPSS（重新整理）/04信度分析.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5e381708cf05361e",
+            "id": "9dfdd46c0f53fb32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPSS/交叉分析與卡方檢定.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d4b7cfb06e80e10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SPSS/T檢定.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49e5d6cc9db163c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "變異數分析（ANOVA）.md",
+                "file": "數據資料庫來源.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "變異數分析（ANOVA）.md",
+                "file": "數據資料庫來源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "變異數分析（ANOVA）.md",
+                "file": "數據資料庫來源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "變異數分析（ANOVA）.md"
+                "file": "數據資料庫來源.md"
               }
             }
           }
@@ -183,54 +159,54 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "49e5d6cc9db163c3",
+  "active": "9dfdd46c0f53fb32",
   "lastOpenFiles": [
-    "SPSS/T檢定.md",
-    "變異數分析（ANOVA）.md",
-    "SPSS/相關分析.md",
-    "SPSS/假設檢定.md",
-    "SPSS/交叉分析與卡方檢定.md",
-    "交叉分析.md",
-    "SPSS/多變量簡介.md",
-    "SPSS/敘述性統計.md",
-    "SPSS/README.md",
+    "SPSS/範例檔/spss_65_data.zip",
+    "SPSS/範例檔/spss_52_data.zip",
+    "SPSS/範例檔/spss_44_data.zip",
+    "SPSS/範例檔/spss_30_data.zip",
+    "SPSS/範例檔/spss_21_data.zip",
+    "SPSS/範例檔/spss_14_data.zip",
+    "SPSS/範例檔/spss_12_data.zip",
+    "07t檢定.md",
+    "attachments/Pasted image 20240511214653.png",
+    "SPSS（重新整理）/04信度分析.md",
+    "SPSS（重新整理）/05效度與因素分析.md",
+    "SPSS/範例檔/spss_65_data/ex9-6_merge.sav",
+    "SPSS/範例檔/spss_65_data/ex9-6.docx",
+    "SPSS/範例檔/spss_65_data/ex9-6-2.sav",
+    "SPSS/範例檔/spss_65_data/ex9-6-1.sav",
+    "SPSS（重新整理）/attachments/Pasted image 20240511165553.png",
+    "SPSS（重新整理）/06相關分析.md",
+    "attachments/Pasted image 20240511001858.png",
+    "SPSS（重新整理）/02敘述性統計（變數現況分析）.md",
+    "SPSS（重新整理）/03IPA分析.md",
+    "attachments/Pasted image 20240510234749.png",
+    "SPSS（重新整理）/attachments/Pasted image 20240509030612.png",
+    "SPSS（重新整理）/00SPSS軟體基本操作.md",
+    "SPSS/01多變量簡介.md",
+    "SPSS（重新整理）/01李克特量表.md",
     "README.md",
-    "統計學/緒論.md",
-    "SPSS/中介分析（meidation analysis）.md",
-    "SPSS/範例檔/敘述性統計/MLB2019_1.sav",
-    "SPSS/範例檔/敘述性統計/MLB2019.sav",
-    "SPSS/範例檔/敘述性統計/~$MLB Salary 2019.xlsx",
-    "SPSS/範例檔/敘述性統計/MLB Salary 2019.xlsx",
-    "SPSS/範例檔/敘述性統計",
-    "SPSS/範例檔/未命名檔案夾",
-    "SPSS/範例檔/MLB Salary 2019.xlsx",
-    "SPSS/MLB Salary 2019.xlsx",
-    "SPSS/集中趨勢（central tendency）.md",
-    "SPSS/SPSS軟體基本操作.md",
-    "世燁老師這邊的報告/2024.05.05 實作心得.md",
-    "attachments/Pasted image 20240504181021.png",
-    "SPSS/範例檔/spss_4_data.zip",
-    "SPSS/範例檔",
-    "統計學/機率.md",
-    "TCP.md",
-    "隨機變數.md",
-    "世燁老師這邊的報告/【數位雙生AR】demo/2014.04.16【數位雙生AR】簡報重點.md",
-    "硬體基本知識.md",
-    "英文雜誌/2024.04 ALL+.md",
-    "世燁老師這邊的論文/未閱讀/異常感測ssensor/2021 Smart Anomaly Detection in Sensor Systems A Multi-Perspective Review.md",
+    "數據資料庫來源.md",
+    "SPSS/03假設檢定.md",
+    "科技接受模式（換我寫寫看.md",
+    "attachments/截圖 2024-05-09 下午1.43.03.png",
+    "attachments/截圖 2024-05-09 下午1.36.26.png",
+    "attachments/Pasted image 20240509130055.png",
+    "attachments/Pasted image 20240509130009.png",
+    "image.png",
     "世燁老師這邊的論文/合作學習/2022 Cooperative and Collaborative Learning An Innovation in Teaching Medical Physiology.md",
-    "世燁老師這邊的論文/XR（VR AR MR）/2021 The Effects of Virtual Reality, Augmented Reality, and Mixed Reality as Training Enhancement Methods.md",
-    "世燁老師這邊的論文/XR（VR AR MR）/2020 An Immersive Multi-User Virtual Reality for Emergency Simulation Training Usability Study.md",
-    "世燁老師這邊的論文/醫療領域/2022 Cooperative and Collaborative Learning An Innovation in Teaching Medical Physiology.md",
-    "英文雜誌/attachments/截圖 2024-04-10 凌晨1.33.07.png",
-    "英文雜誌/attachments/截圖 2024-04-09 凌晨12.49.29.png",
-    "英文雜誌/attachments/截圖 2024-04-09 凌晨12.48.45.png",
-    "attachments/截圖 2024-04-08 下午2.59.47.png",
-    "attachments/Pasted image 20240406170624.png",
-    "attachments/截圖 2024-04-06 凌晨1.51.19.png",
-    "attachments/截圖 2024-04-06 凌晨1.48.29.png",
-    "attachments/截圖 2024-04-06 凌晨1.44.44.png",
-    "attachments/截圖 2024-04-06 凌晨1.30.48.png",
+    "dk.md",
+    "世燁老師這邊的論文/A Review on Virtual Reality Skill Training Applications.md",
+    "世燁老師這邊的論文/自己撰寫的/虛擬實境&多人協作&醫療急救文獻撰寫2.1.0.md",
+    "世燁老師這邊的論文/自己撰寫的/SCI論文Introduction萬能寫作公式.md",
+    "SPSS/04交叉分析與卡方檢定.md",
+    "SPSS/11逐步回歸分析法.md",
+    "SPSS/10複迴歸分析.md",
+    "SPSS/09簡單回歸分析.md",
+    "SPSS/08 二因子變異數分析.md",
+    "SPSS/07單因子變異數分析（ANOVA）.md",
+    "SPSS/06T檢定.md",
     "未命名.canvas"
   ]
 }
