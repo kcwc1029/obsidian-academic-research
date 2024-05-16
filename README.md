@@ -65,6 +65,8 @@ obsidian callout
 (二) 項目分析
 肆、研究結果
 伍、引用
+![upgit_20240516_1715837183.png](https://raw.githubusercontent.com/kcwc1029/obsidian-upgit-image/main/2024/05/upgit_20240516_1715837183.png)
+
 ## 學生黨todo list
 - 作業
 - 聯絡
@@ -76,4 +78,65 @@ obsidian callout
 - 要買的東西
 - 要去的地方
 - 雜七雜八
+
+
+## [如何解決 udemy 螢幕截圖變成黑色的問題?](https://softnshare.com/awesomescreenshotandudemyblackscreenissue/)
+
+
+
+## 論文 word教學
+[用WORD寫論文，你不知道的密技 (youtube.com)](https://www.youtube.com/watch?v=gQ7K2hSHqcg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+樣本數比較
+SEM：
+- 採完全訊息估計法（共變異數矩陣）去做，樣本數為研究構面題目10倍，27x10
+PLS：
+- 有限訊息分析法，各個構面自己顯算，再去算全部模型
+- 最大構面題目數的10倍，7*10
+- 影響應變數的自變數的10倍
+
+
+
+反應型指標：
+- 因果關係必需是構面到觀察變數
+- 一個構面至少需具有3個觀察變數  
+- 觀察變量具可交換性，觀察變量具可交換性。
+反應型指標評估方式：
+- 因素負荷量（題目信度)>0.7 
+- 單一構面準則 (利用EFA檢測)
+- 構面信度及收斂效度
+	- Cronbach’s α > 0.7
+	- 組成信度 (Composite Reliability, CR) > 0.7
+	- 平均變異數萃取量  (Average Variance Extracted, AVE) > 0.5
+- 區別效度（主要是前兩個規則）
+	- 交叉負荷量 <因素負荷量
+	- AVE>構面相關的平方(Fornell and Larcker criteria)
+	- HTMT
+
+形成型指標：
+- 因果方向由測量變數到潛在變數。
+- 拿掉一個變數會改變構面的意義。
+形成型指標評估方式：
+- 題目效度
+	- 權重>0.2而且要顯著(Chin, 1998)，顯著性可由bootstrap求得
+	- Indicators之間要檢查共線性，即VIF<3.3
+- 構面效度：構面之間的關係需與文獻一致並且顯著。
+- 區別效度：構面之間的相關<0.7為具有區別效度。
+- 
+
+
+
+
 
