@@ -4,47 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "72f1c8d93f2c4fcf",
+        "id": "15df1c3c80210ad0",
         "type": "tabs",
         "children": [
           {
-            "id": "8b1feba03092483a",
+            "id": "603b1223bb0abbf8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "SPSS（重新整理）/07t檢定.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 125,
+                  "y": 50,
+                  "zoom": -0.08496644139289856
+                }
               }
             }
           },
           {
-            "id": "089c46b214c56c43",
+            "id": "7cd1130a167d53b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "世燁老師這邊的報告/【數位雙生AR】demo/2014.04.16【數位雙生AR】簡報重點.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c312faba6562501c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "世燁老師這邊的論文/已閱讀/Exploring the Learning Process and Effectiveness of STEM Education via Learning Behavior Analysis and the Interactive-Constructive-Active-Passive Framework/Exploring the Learning Process and Effectiveness of STEM Education via Learning Behavior Analysis and the Interactive-Constructive-Active-Passive Framework.md",
+                "file": "科学、、算法设计和评估。.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 211.5
   },
   "right": {
     "id": "f881b5380496a60f",
@@ -110,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "世燁老師這邊的論文/已閱讀/Exploring the Learning Process and Effectiveness of STEM Education via Learning Behavior Analysis and the Interactive-Constructive-Active-Passive Framework/Exploring the Learning Process and Effectiveness of STEM Education via Learning Behavior Analysis and the Interactive-Constructive-Active-Passive Framework.md",
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "世燁老師這邊的論文/已閱讀/Exploring the Learning Process and Effectiveness of STEM Education via Learning Behavior Analysis and the Interactive-Constructive-Active-Passive Framework/Exploring the Learning Process and Effectiveness of STEM Education via Learning Behavior Analysis and the Interactive-Constructive-Active-Passive Framework.md",
+                "file": "未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "世燁老師這邊的論文/已閱讀/Exploring the Learning Process and Effectiveness of STEM Education via Learning Behavior Analysis and the Interactive-Constructive-Active-Passive Framework/Exploring the Learning Process and Effectiveness of STEM Education via Learning Behavior Analysis and the Interactive-Constructive-Active-Passive Framework.md"
+                "file": "未命名.canvas"
               }
             }
           }
@@ -171,28 +161,30 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "c312faba6562501c",
+  "active": "603b1223bb0abbf8",
   "lastOpenFiles": [
-    "世燁老師這邊的論文/已閱讀/Exploring the Learning Process and Effectiveness of STEM Education via Learning Behavior Analysis and the Interactive-Constructive-Active-Passive Framework/Exploring the Learning Process and Effectiveness of STEM Education via Learning Behavior Analysis and the Interactive-Constructive-Active-Passive Framework.pdf",
+    "世燁老師這邊的論文/已閱讀/Integrating Computational Thinking Into Scaffolding Learning An Innovative Approach to Enhance Science, Technology Engineering and Mathematics Hands-On Learning/Integrating Computational Thinking Into Scaffolding Learning An Innovative Approach to Enhance Science, Technology Engineering and Mathematics Hands-On Learning.pdf",
+    "未命名.canvas",
+    "科学、、算法设计和评估。.md",
+    "README.md",
     "世燁老師這邊的論文/已閱讀/Exploring the Learning Process and Effectiveness of STEM Education via Learning Behavior Analysis and the Interactive-Constructive-Active-Passive Framework/Exploring the Learning Process and Effectiveness of STEM Education via Learning Behavior Analysis and the Interactive-Constructive-Active-Passive Framework.md",
+    "世燁老師這邊的論文/已閱讀/Signaling feedback mechanisms to promoting self-regulated learning and motivation in virtual reality transferred to real-world hands-on tasks",
+    "世燁老師這邊的論文/已閱讀/Integrating Computational Thinking Into Scaffolding Learning An Innovative Approach to Enhance Science, Technology Engineering and Mathematics Hands-On Learning",
+    "世燁老師這邊的論文/已閱讀/未命名檔案夾",
+    "世燁老師這邊的論文/已閱讀/Exploring the Learning Process and Effectiveness of STEM Education via Learning Behavior Analysis and the Interactive-Constructive-Active-Passive Framework/Exploring the Learning Process and Effectiveness of STEM Education via Learning Behavior Analysis and the Interactive-Constructive-Active-Passive Framework.pdf",
     "數據資料庫來源.md",
     "世燁老師這邊的論文/已閱讀/Exploring the Learning Process and Effectiveness of STEM Education via Learning Behavior Analysis and the Interactive-Constructive-Active-Passive Framework.md",
     "世燁老師這邊的論文/已閱讀/Exploring the Learning Process and Effectiveness of STEM Education via Learning Behavior Analysis and the Interactive-Constructive-Active-Passive Framework",
-    "世燁老師這邊的論文/已閱讀/未命名檔案夾",
     "世燁老師這邊的論文/已閱讀/Exploring the Learning Process and Effectiveness of STEM Education via Learning Behavior Analysis and the Interactive-Constructive-Active-Passive Framework.pdf",
     "世燁老師這邊的論文/已閱讀/Exploring the Learning Process and Effe...pdf",
     "attachments/截圖 2024-05-16 下午3.12.02.png",
     "世燁老師這邊的論文/已閱讀",
     "世燁老師這邊的論文/自己撰寫的/科技接受模型/科技接受模型（自己寫看看）0.0.1.pdf",
-    "世燁老師這邊的論文/自己撰寫的/科技接受模型/科技接受模型（自己寫看看）.docx",
-    "世燁老師這邊的論文/自己撰寫的/科技接受模型（自己寫看看）0.0.1.pdf",
-    "世燁老師這邊的論文/自己撰寫的/科技接受模型（自己寫看看）.docx",
     "世燁老師這邊的論文/合作學習/2022 Cooperative and Collaborative Learning An Innovation in Teaching Medical Physiology.md",
     "SPSS（重新整理）/08回歸分析.md",
     "SPSS（重新整理）/00所有分析總覽.md",
     "世燁老師這邊的報告/2024.05.14 跟老師討論.md",
     "世燁老師這邊的論文/A Review on Virtual Reality Skill Training Applications.md",
-    "README.md",
     "世燁老師這邊的報告/【數位雙生AR】demo/2014.04.16【數位雙生AR】簡報重點.md",
     "08回歸分析.md",
     "SPSS（重新整理）/03IPA分析.md",
@@ -214,10 +206,8 @@
     "SPSS/01多變量簡介.md",
     "SPSS（重新整理）/01李克特量表.md",
     "SPSS/03假設檢定.md",
-    "科技接受模式（換我寫寫看.md",
     "attachments/截圖 2024-05-09 下午1.43.03.png",
     "attachments/截圖 2024-05-09 下午1.36.26.png",
-    "attachments/Pasted image 20240509130055.png",
-    "未命名.canvas"
+    "attachments/Pasted image 20240509130055.png"
   ]
 }
