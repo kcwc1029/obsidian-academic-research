@@ -1,0 +1,211 @@
+## REFERENCES
+- Shackelford, R., McGettrick, A., Sloan, R., Topi, H., Davies, G., Kamali, R., ... & Lunt, B. (2006). Computing curricula 2005: The overview report. _ACM SIGCSE Bulletin_, _38_(1), 456-457.
+- Sabin, M., Alrumaih, H., Impagliazzo, J., Lunt, B., Zhang, M., Byers, B., ... & Tang, C. (2017). Information technology curricula 2017: curriculum guidelines for baccalaureate degree programs in information technology. _A Report in the Computing Curricula Series Task Group on Information Technology Curricula_.
+- Vaughn, R. B., Dampier, D. A., & Warkentin, M. B. (2004, October). Building an information security education program. In _Proceedings of the 1st annual conference on Information security curriculum development_ (pp. 41-45).
+- Azadegan, S., Lavine, M., O'Leary, M., Wijesinha, A., & Zimand, M. (2003, June). An undergraduate track in computer security. In _Proceedings of the 8th Annual Conference on innovation and Technology in Computer Science Education_ (pp. 207-210).
+- Crowley, E. (2003, October). Information system security curricula development. In _Proceedings of the 4th conference on Information technology curriculum_ (pp. 249-255).
+- Mintah, E. (2014). Using group method of teaching to address the problem of large class size: An action research. _International Journal of Learning & Development_, _4_(2).
+- Raman, R., Lal, A., & Achuthan, K. (2014, March). Serious games based approach to cyber security concept learning: Indian context. In _2014 International Conference on Green Computing Communication and Electrical Engineering (ICGCCEE)_ (pp. 1-5). IEEE.
+- Brezovszky, B., McMullen, J., Veermans, K., Hannula-Sormunen, M. M., Rodríguez-Aflecht, G., Pongsakdi, N., ... & Lehtinen, E. (2019). Effects of a mathematics game-based learning environment on primary school students' adaptive number knowledge. _Computers & Education_, _128_, 63-74.
+- Pila, S., Aladé, F., Sheehan, K. J., Lauricella, A. R., & Wartella, E. A. (2019). Learning to code via tablet applications: An evaluation of Daisy the Dinosaur and Kodable as learning tools for young children. _Computers & Education_, _128_, 52-62.
+- Chen, Z. H., Lu, H. D., & Chou, C. Y. (2019). Using game-based negotiation mechanism to enhance students’ goal setting and regulation. _Computers & Education_, _129_, 71-81.
+- Papastergiou, M. (2009). Digital game-based learning in high school computer science education: Impact on educational effectiveness and student motivation. _Computers & education_, _52_(1), 1-12.
+- Westera, W., Nadolski, R. J., Hummel, H. G., & Wopereis, I. G. (2008). Serious games for higher education: a framework for reducing design complexity. _Journal of Computer Assisted Learning_, _24_(5), 420-432.
+- Mostafa, M., & Faragallah, O. S. (2019). Development of serious games for teaching information security courses. _IEEE Access_, _7_, 169293-169305.
+- Derryberry, A. (2010). Serious games: online games for learning.[pdf] Adobe White Paper.
+- Vargas, J. A., García-Mundo, L., Genero, M., & Piattini, M. (2014, May). A systematic mapping study on serious game quality. In _Proceedings of the 18th International Conference on Evaluation and Assessment in Software Engineering_ (pp. 1-10).
+- Sotamaa, O. (2007, September). Perceptions of Player in Game Design Literature. In _DiGRA Conference_.
+- Hendrix, M., Al-Sherbaz, A., & Victoria, B. (2016). Game based cyber security training: are serious games suitable for cyber security training?. _International Journal of Serious Games_, _3_(1), 53-61.
+- Twitchell, D. P. (2007). SecurityCom: a multi-player game for researching and teaching information security teams. _Journal of Digital Forensics, Security and Law_, _2_(4), 1.
+- Irvine, C. E., Thompson, M. F., & Allen, K. (2005). CyberCIEGE: gaming for information assurance. _IEEE Security & Privacy_, _3_(3), 61-64.
+- Cone, B. D., Irvine, C. E., Thompson, M. F., & Nguyen, T. D. (2007). A video game for cyber security training and awareness. _computers & security_, _26_(1), 63-72.
+- Jones, J., Yuan, X., Carr, E., & Yu, H. (2010, March). A comparative study of CyberCIEGE game and Department of Defense Information Assurance Awareness video. In _Proceedings of the IEEE SoutheastCon 2010 (SoutheastCon)_(pp. 176-180). IEEE.
+- Sheng, S., Magnien, B., Kumaraguru, P., Acquisti, A., Cranor, L. F., Hong, J., & Nunge, E. (2007, July). Anti-phishing phil: the design and evaluation of a game that teaches people not to fall for phish. In _Proceedings of the 3rd symposium on Usable privacy and security_ (pp. 88-99).
+- Mostafa, M., & Faragallah, O. S. (2019). Development of serious games for teaching information security courses. _IEEE Access_, _7_, 169293-169305.
+- Reid, R., & Van Niekerk, J. (2014). Snakes and ladders for digital natives: information security education for the youth. _Information Management & Computer Security_, _22_(2), 179-190.
+- Zhou, Y., Gan, L., Chen, J., Wijaya, T. T., & Li, Y. (2023). Development and validation of a higher-order thinking skills assessment scale for pre-service teachers. _Thinking Skills and Creativity_, _48_, 101272
+- Di, W., Danxia, X., & Chun, L. (2019). The effects of learner factors on higher-order thinking in the smart classroom environment. _Journal of Computers in Education_, _6_(4), 483-498.
+- Huang, Y. M., Silitonga, L. M., Murti, A. T., & Wu, T. T. (2023). Learner engagement in a business simulation game: Impact on higher-order thinking skills. _Journal of Educational Computing Research_, _61_(1), 96-126.
+- Lu, K., Yang, H. H., Shi, Y., & Wang, X. (2021). Examining the key influencing factors on college students’ higher-order thinking skills in the smart classroom environment. _International Journal of Educational Technology in Higher Education_, _18_, 1-13.
+- Hwang, G. J., Lai, C. L., Liang, J. C., Chu, H. C., & Tsai, C. C. (2018). A long-term experiment to investigate the relationships between high school students’ perceptions of mobile learning and peer interaction and higher-order thinking tendencies. _Educational Technology Research and Development_, _66_, 75-93.
+- Lee, H. Y., Wu, T. T., Lin, C. J., Wang, W. S., & Huang, Y. M. (2024). Integrating Computational thinking into scaffolding learning: An innovative approach to enhance Science, Technology, Engineering, and Mathematics hands-on learning. _Journal of Educational Computing Research_, _62_(2), 431-467.
+- Mostafa, M., & Faragallah, O. S. (2019). Development of serious games for teaching information security courses. _IEEE Access_, _7_, 169293-169305.
+- Zhao, X., Xie, H., Roberts, A., & Sbaffi, L. (2024, April). Promoting Academic Integrity Through Gamification: Testing the Effectiveness of a 3D Immersive Video Game. In _International Conference on Information_ (pp. 65-76). Cham: Springer Nature Switzerland.
+- Keller, T., Brucker-Kley, E., & Schwammel, P. (2024). A case study of an immersive learning unit for German as a second language. _Discover Education_, _3_(1), 28.
+- Rapeepisarn, K., Wong, K. W., Fung, C. C., & Khine, M. S. (2008). The relationship between game genres, learning techniques and learning styles in educational computer games. In _Technologies for E-Learning and Digital Entertainment: Third International Conference, Edutainment 2008 Nanjing, China, June 25-27, 2008 Proceedings 3_ (pp. 497-508). Springer Berlin Heidelberg.
+- M. Prensky, ‘‘Computer games and learning: Digital game-based learn- ing,’’ in Handbook of Computer Game Studies, J. Raessens and J. Goldstein, Eds. Cambridge, MA, USA: MIT Press, 2005, pp. 97–122.
+- Prensky, M. (2005). Computer games and learning: Digital game-based learning. _Handbook of computer game studies_, _18_(2005), 97-122.
+- Rapeepisarn, K., Wong, K. W., Fung, C. C., & Khine, M. S. (2008). The relationship between game genres, learning techniques and learning styles in educational computer games. In _Technologies for E-Learning and Digital Entertainment: Third International Conference, Edutainment 2008 Nanjing, China, June 25-27, 2008 Proceedings 3_ (pp. 497-508). Springer Berlin Heidelberg.
+- Bai, H., Pan, W., Hirumi, A., & Kebritchi, M. (2012). Assessing the effectiveness of a 3‐D instructional game on improving mathematics achievement and motivation of middle school students. _British Journal of Educational Technology_, _43_(6), 993-1003.
+- Kebritchi, M., Hirumi, A., & Bai, H. (2010). The effects of modern mathematics computer games on mathematics achievement and class motivation. _Computers & education_, _55_(2), 427-443.
+- Schrader, C., & Bastiaens, T. J. (2012). The influence of virtual presence: Effects on experienced cognitive load and learning outcomes in educational computer games. _Computers in Human Behavior_, _28_(2), 648-658.
+- Ak, O., & Kutlu, B. (2017). Comparing 2D and 3D game‐based learning environments in terms of learning gains and student perceptions. _British Journal of Educational Technology_, _48_(1), 129-144.
+- Schrader, C., & Bastiaens, T. J. (2012). The influence of virtual presence: Effects on experienced cognitive load and learning outcomes in educational computer games. _Computers in Human Behavior_, _28_(2), 648-658.
+- Prensky, M. (2005). Computer games and learning: Digital game-based learning. _Handbook of computer game studies_, _18_(2005), 97-122.
+- - Prensky, M. (2005). Computer games and learning: Digital game-based learning. _Handbook of computer game studies_, _18_(2005), 97-122.
+- Kiili, K. (2005). Digital game-based learning: Towards an experiential gaming model. _The Internet and higher education_, _8_(1), 13-24.
+- Huang, W. D., Johnson, T. E., & Han, S. H. C. (2013). Impact of online instructional game features on college students’ perceived motivational support and cognitive investment: A structural equation modeling study. _The Internet and Higher Education_, _17_, 58-68.
+- Rutherford, T., Farkas, G., Duncan, G., Burchinal, M., Kibrick, M., Graham, J., ... & Martinez, M. E. (2014). A randomized trial of an elementary school mathematics software intervention: Spatial-temporal math. _Journal of Research on Educational Effectiveness_, _7_(4), 358-383.
+-  K. Rapeepisarn, K. W. Wong, C. C. Fung, and M. S. Khine, ‘‘The rela- tionship between game genres, learning techniques and learning styles in educational computer games,’’ in Proc. Int. Conf. Technol. E-Learn. Digit. Entertainment. Berlin, Germany: Springer, Jun. 2008, pp. 497–508.
+- D. A. Kolb, R. E. Boyatzis, and C. Mainemelis, ‘‘Experiential learning theory: Previous research and new directions,’’ in Perspectives on Thinking, Learning, and Cognitive Styles, R. J. Sternberg and L. F. Zhang, Eds. Mahwah, NJ, USA: Lawrence Erlbaum, 2000, pp. 227–247
+- Collins, A., Hess, M. A., Hallman, M. G., Johnson, K., Harris, L., Petty, A., & Roussel, L. (2022). DNP team projects: A reflection of team science. _Journal of Doctoral Nursing Practice_, _15_(2), 123-128.
+- Zain, F. M., Sailin, S. N., & Mahmor, N. A. (2022). Promoting higher order thinking skills among pre-service teachers through group-based flipped learning. _International Journal of Instruction_, _15_(3), 519-542.
+- Almerich, G., Suárez‐Rodríguez, J., Díaz‐García, I., & Cebrián‐Cifuentes, S. (2020). 21st‐century competences: The relation of ICT competences with higher‐order thinking capacities and teamwork competences in university students. _Journal of Computer Assisted Learning_, _36_(4), 468-479.
+- Lu, K., Yang, H. H., Shi, Y., & Wang, X. (2021). Examining the key influencing factors on college students’ higher-order thinking skills in the smart classroom environment. _International Journal of Educational Technology in Higher Education_, _18_, 1-13.
+- Alrawili, K. S., Osman, K., & Almuntasheri, S. (2020). Effect of Scaffolding Strategies on Higher-Order Thinking Skills in Science Classroom. _Journal of Baltic Science Education_, _19_(5), 718-729.
+- Harahap, A., & Astrid, A. (2021). Boosting Classroom Interaction Based on Higher Order Thinking Skills (HOTS) in English Learning for Beginners. _International Journal of Language Education_, _5_(1), 477-489.
+- Virranmäki, E., Valta-Hulkkonen, K., & Pellikka, A. (2021). Geography curricula objectives and students’ performance: Enhancing the student’s higher-order thinking skills?. _Journal of geography_, _120_(3), 97-107.
+- - Bloom, B. S. (Ed.). (1968). _Taxonomy of Educational Objectives: The Classification of Educational Goals; Handbook. Cognitive Domain_. McKay.
+- Zhou, Y., Gan, L., Chen, J., Wijaya, T. T., & Li, Y. (2023). Development and validation of a higher-order thinking skills assessment scale for pre-service teachers. _Thinking Skills and Creativity_, _48_, 101272.
+- Hwang, G. J., Lai, C. L., Liang, J. C., Chu, H. C., & Tsai, C. C. (2018). A long-term experiment to investigate the relationships between high school students’ perceptions of mobile learning and peer interaction and higher-order thinking tendencies. _Educational Technology Research and Development_, _66_, 75-93.
+- Lu, K., Yang, H. H., Shi, Y., & Wang, X. (2021). Examining the key influencing factors on college students’ higher-order thinking skills in the smart classroom environment. _International Journal of Educational Technology in Higher Education_, _18_, 1-13.
+- Whalen, K., & Paez, A. (2021). Student perceptions of reflection and the acquisition of higher-order thinking skills in a university sustainability course. _Journal of Geography in Higher Education_, _45_(1), 108-127.
+- Barak, M., & Shakhman, L. (2008). Fostering higher‐order thinking in science class: teachers’ reflections. _Teachers and Teaching: theory and practice_, _14_(3), 191-208.
+- Fatmawati, D., & Setyawan, D. (2018). OIDDE Learning Model: Improving Higher Order Thinking Skills of Biology Teacher Candidates. _International Journal of Instruction_, _11_(2), 249-264.
+- Rintayati, P., Lukitasari, H., & Syawaludin, A. (2021). Development of Two-Tier Multiple Choice Test to Assess Indonesian Elementary Students' Higher-Order Thinking Skills. _International Journal of Instruction_, _14_(1), 555-566.
+- Abdullah, A. H., Mokhtar, M., Abd Halim, N. D., Ali, D. F., Tahir, L. M., & Kohar, U. H. A. (2016). Mathematics teachers’ level of knowledge and practice on the implementation of higher-order thinking skills (HOTS). _Eurasia Journal of Mathematics, Science and Technology Education_, _13_(1), 3-17.
+- Ivie, S. D. (1998). Ausubel's learning theory: An approach to teaching higher order thinking skills. _The High School Journal_, _82_(1), 35-42.
+- Hidayah, I., & Asikin, M. (2021). Quality Management of Mathematics Manipulative Products to Support Students' Higher Order Thinking Skills. _International Journal of Instruction_, _14_(1), 537-554.
+- Mahoney, J. W., & Harris-Reeves, B. (2019). The effects of collaborative testing on higher order thinking: Do the bright get brighter?. _Active Learning in Higher Education_, _20_(1), 25-37.
+- Whalen, K., & Paez, A. (2021). Student perceptions of reflection and the acquisition of higher-order thinking skills in a university sustainability course. _Journal of Geography in Higher Education_, _45_(1), 108-127.
+- Hwang, G. J., Yin, C., & Chu, H. C. (2019). The era of flipped learning: promoting active learning and higher order thinking with innovative flipped learning strategies and supporting systems. _Interactive Learning Environments_, _27_(8), 991-994.
+- Caulkins, B., Marlowe, T., & Reardon, A. (2019). Cybersecurity skills to address today’s threats. In _Advances in Human Factors in Cybersecurity: Proceedings of the AHFE 2018 International Conference on Human Factors in Cybersecurity, July 21-25, 2018, Loews Sapphire Falls Resort at Universal Studios, Orlando, Florida, USA 9_ (pp. 187-192). Springer International Publishing.
+- Faith, B. F., Long, Z. A., & Hamid, S. (2024, May). Promoting cybersecurity knowledge via gamification: an innovative intervention design. In _2024 Third International Conference on Distributed Computing and High Performance Computing (DCHPC)_ (pp. 1-8). IEEE.
+- Kaczmarczyk, J., Davidson, R., Bryden, D., Haselden, S., & Vivekananda‐Schmidt, P. (2016). Learning decision making through serious games. _The clinical teacher_, _13_(4), 277-282.
+- Hauge, J. M. B., Stefan, I. A., & Stefan, A. (2017). Exploring pervasive entertainment games to construct learning paths. In _Entertainment Computing–ICEC 2017: 16th IFIP TC 14 International Conference, Tsukuba City, Japan, September 18-21, 2017, Proceedings 16_ (pp. 196-201). Springer International Publishing.
+- Gros, B. (2007). Digital games in education: The design of games-based learning environments. _Journal of research on technology in education_, _40_(1), 23-38.
+- Hung, J. W., Chang, Y. J., Chou, C. X., Wu, W. C., Howell, S., & Lu, W. P. (2018). Developing a suite of motion-controlled games for upper extremity training in children with cerebral palsy: a proof-of-concept study. _Games for health journal_, _7_(5), 327-334.
+- Hung, J. W., Chang, Y. J., Chou, C. X., Wu, W. C., Howell, S., & Lu, W. P. (2018). Developing a suite of motion-controlled games for upper extremity training in children with cerebral palsy: a proof-of-concept study. _Games for health journal_, _7_(5), 327-334.
+- Sapounidis, T., Demetriadis, S., Papadopoulos, P. M., & Stamovlasis, D. (2019). Tangible and graphical programming with experienced children: A mixed methods analysis. _International Journal of Child-Computer Interaction_, _19_, 67-78.
+- Orji, R., Mandryk, R. L., Vassileva, J., & Gerling, K. M. (2013, April). Tailoring persuasive health games to gamer type. In _Proceedings of the sigchi conference on human factors in computing systems_ (pp. 2467-2476).
+- Gao, Y., & Mandryk, R. (2012, May). The acute cognitive benefits of casual exergame play. In _Proceedings of the SIGCHI Conference on Human Factors in Computing Systems_ (pp. 1863-1872).
+- Kosmas, P., Ioannou, A., & Retalis, S. (2018). Moving bodies to moving minds: A study of the use of motion-based games in special education. _TechTrends_, _62_(6), 594-601.
+- Kourakli, M., Altanis, I., Retalis, S., Boloudakis, M., Zbainos, D., & Antonopoulou, K. (2017). Towards the improvement of the cognitive, motoric and academic skills of students with special educational needs using Kinect learning games. _International Journal of Child-Computer Interaction_, _11_, 28-39.
+- Wouters, P., Van Nimwegen, C., Van Oostendorp, H., & Van Der Spek, E. D. (2013). A meta-analysis of the cognitive and motivational effects of serious games. _Journal of educational psychology_, _105_(2), 249.
+- Kalmpourtzis, G. (2018). _Educational Game Design Fundamentals: A journey to creating intrinsically motivating learning experiences_. AK Peters/CRC Press.
+- Delgado, C., López, D. M., & Rico-Olarte, C. (2019, June). Affective video games: a systematic mapping study. In _International Conference on Human-Computer Interaction_ (pp. 105-113). Cham: Springer International Publishing.
+- Slimani, A., Yedri, O. B., Elouaai, F., & Bouhorma, M. (2016). Towards a design approach for serious games. _International Journal of Knowledge and Learning_, _11_(1), 58-81.
+- Slimani, A., Elaachak, L., Elouaai, F., & Bouhorma, M. (2016, September). Evaluation-driven design for serious games, the multilayer methodology and collaborative framework. In _2016 8th International Conference on Games and Virtual Worlds for Serious Applications (VS-Games)_ (pp. 1-3). IEEE.
+- Slimani, A., Yedri, O. B., Elouaai, F., & Bouhorma, M. (2016). Towards a design approach for serious games. _International Journal of Knowledge and Learning_, _11_(1), 58-81.
+- Mildner, P., & ‘Floyd’Mueller, F. (2016). Design of serious games. _Serious games: Foundations, concepts and practice_, 57-82.
+- Triantafyllou, S., & Georgiadis, C. K. (2022). Gamification of MOOCs and security awareness in corporate training.
+- Richey, J. E., Zhang, J., Das, R., Andres-Bray, J. M., Scruggs, R., Mogessie, M., ... & McLaren, B. M. (2021, June). Gaming and confrustion explain learning advantages for a math digital learning game. In _International conference on artificial intelligence in education_ (pp. 342-355). Cham: Springer International Publishing.
+- Zafeiropoulou, M., Volioti, C., Keramopoulos, E., & Sapounidis, T. (2021). Developing physics experiments using augmented reality game-based learning approach: A pilot study in primary school. _Computers_, _10_(10), 126.
+- Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. _American psychologist_, _55_(1), 68.
+- Wang, C. J., Liu, W. C., Kee, Y. H., & Chian, L. K. (2019). Competence, autonomy, and relatedness in the classroom: understanding students’ motivational processes using the self-determination theory. _Heliyon_, _5_(7).
+- Gee, J. P. (2005). Learning by design: Good video games as learning machines. _E-learning and Digital Media_, _2_(1), 5-16.
+- Wang, Y., Rajan, P., Sankar, C. S., & Raju, P. K. (2016). Let them play: the impact of mechanics and dynamics of a serious game on student perceptions of learning engagement. _IEEE Transactions on Learning Technologies_, _10_(4), 514-525.
+- Marcelino, L., Fernandes, P. M., & Cerqueira, J. (2024). Learning Engagement in a Pre-Alpha Version of an Educational Game: Evaluation and Proposed Solutions. _The International Journal of Games and Social Impact_, _2_(1), 28-45.
+- Hatzivasilis, G., Ioannidis, S., Smyrlis, M., Spanoudakis, G., Frati, F., Goeke, L., ... & Koshutanski, H. (2020). Modern aspects of cyber-security training and continuous adaptation of programmes to trainees. _Applied Sciences_, _10_(16), 5702.
+- Hautamäki, J., Karjalainen, M., Hämäläinen, T., & Häkkinen, P. (2019). Cyber security exercise: Literature review to pedagogical methodology. In _INTED Proceedings_ (No. 2019). IATED Academy.
+- Israel, M., & Lash, T. (2020). From classroom lessons to exploratory learning progressions: Mathematics+ computational thinking. _Interactive Learning Environments_, _28_(3), 362-382.
+- Mann, L., Chang, R., Chandrasekaran, S., Coddington, A., Daniel, S., Cook, E., ... & Smith, T. D. (2021). From problem-based learning to practice-based education: A framework for shaping future engineers. _European Journal of Engineering Education_, _46_(1), 27-47.
+- Scheponik, T., Sherman, A. T., DeLatte, D., Phatak, D., Oliva, L., Thompson, J., & Herman, G. L. (2016, October). How students reason about cybersecurity concepts. In _2016 IEEE Frontiers in Education Conference (FIE)_ (pp. 1-5). IEEE.
+- Švábenský, V., Vykopal, J., Cermak, M., & Laštovička, M. (2018, July). Enhancing cybersecurity skills by creating serious games. In _Proceedings of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education_ (pp. 194-199).
+- Jin, G., Tu, M., Kim, T. H., Heffron, J., & White, J. (2018). Evaluation of game-based learning in cybersecurity education for high school students. _Journal of Education and Learning (EduLearn)_, _12_(1), 150-158.
+- Taylor-Jackson, J., McAlaney, J., Foster, J. L., Bello, A., Maurushat, A., & Dale, J. (2020). Incorporating psychology into cyber security education: a pedagogical approach. In _Financial Cryptography and Data Security: FC 2020 International Workshops, AsiaUSEC, CoDeFi, VOTING, and WTSC, Kota Kinabalu, Malaysia, February 14, 2020, Revised Selected Papers 24_ (pp. 207-217). Springer International Publishing.
+- Shah, V., Kumar, A., & Smart, K. (2018). Moving forward by looking backward: Embracing pedagogical principles to develop an innovative MSIS program. _Journal of Information Systems Education_, _29_(3), 139-156.
+- Knapp, K. J., Maurer, C., & Plachkinova, M. (2017). Maintaining a cybersecurity curriculum: Professional certifications as valuable guidance. _Journal of Information Systems Education_, _28_(2), 101.
+- Gee, J. P. (2005). Learning by design: Good video games as learning machines. _E-learning and Digital Media_, _2_(1), 5-16.
+- Wang, Y., Rajan, P., Sankar, C. S., & Raju, P. K. (2016). Let them play: the impact of mechanics and dynamics of a serious game on student perceptions of learning engagement. _IEEE Transactions on Learning Technologies_, _10_(4), 514-525.
+- Ke, F. (2017). Designing intrinsic integration of learning and gaming actions in a 3D architecture game. In _Handbook of research on serious games for educational applications_ (pp. 234-252). IGI Global.
+- Hwang, G. J., Lai, C. L., Liang, J. C., Chu, H. C., & Tsai, C. C. (2018). A long-term experiment to investigate the relationships between high school students’ perceptions of mobile learning and peer interaction and higher-order thinking tendencies. Educational Technology Research and Development, 66, 75-93.
+- Horikami, A., & Takahashi, K. (2022). The tripartite thinking model of creativity. _Thinking Skills and Creativity_, _44_, 101026.
+- Hsiao, H. S., Chang, Y. C., Lin, K. Y., Chen, J. C., Lin, C. Y., Chung, G. H., & Chen, J. H. (2023). Applying the design thinking model to hands-on mechatronics STEM activities for senior high school students to improve the learning performance and learning behavior. _International Journal of Technology and Design Education_, _33_(4), 1389-1408.
+- Damaševičius, R. (2014). Towards empirical modelling of knowledge transfer in teaching/learning process. In _Information and Software Technologies: 20th International Conference, ICIST 2014, Druskininkai, Lithuania, October 9-10, 2014. Proceedings 20_ (pp. 359-372). Springer International Publishing.
+- Subhash, S., & Cudney, E. A. (2018). Gamified learning in higher education: A systematic review of the literature. _Computers in human behavior_, _87_, 192-206.
+- Plauska, I., & Damaševičius, R. (2014). Educational robots for internet-of-things supported collaborative learning. In _Information and Software Technologies: 20th International Conference, ICIST 2014, Druskininkai, Lithuania, October 9-10, 2014. Proceedings 20_ (pp. 346-358). Springer International Publishing.
+- Zeng, J., Parks, S., & Shang, J. (2020). To learn scientifically, effectively, and enjoyably: A review of educational games. _Human Behavior and Emerging Technologies_, _2_(2), 186-195.
+- Bawa, P. (2020). Game on!: Investigating digital game-based versus gamified learning in higher education. _International Journal of Game-Based Learning (IJGBL)_, _10_(3), 16-46.
+- Askarova, U., & Jabborova, D. (2020). The Use of Game Technologies in Primary Education. _Am. J. Soc. Sci. Educ. Innov_, _2_, 478-485.
+- Plass, J. L., Homer, B. D., & Kinzer, C. K. (2015). Foundations of game-based learning. _Educational psychologist_, _50_(4), 258-283.
+- Qian, M., & Clark, K. R. (2016). Game-based Learning and 21st century skills: A review of recent research. _Computers in human behavior_, _63_, 50-58.
+- Crookall, D. (2010). Serious games, debriefing, and simulation/gaming as a discipline. _Simulation & gaming_, _41_(6), 898-920.
+- Jahnke, I., Lee, Y. M., Pham, M., He, H., & Austin, L. (2020). Unpacking the inherent design principles of mobile microlearning. _Technology, Knowledge and Learning_, _25_, 585-619.
+- Fuchslocher, A., Niesenhaus, J., & Krämer, N. (2011). Serious games for health: An empirical study of the game “Balance” for teenagers with diabetes mellitus. _Entertainment Computing_, _2_(2), 97-101.
+- Jeen, Y., Han, J., Kim, H., Lee, K., & Park, P. (2007). Persuasive interaction strategy for self diet system: Exploring the relation of user attitude and intervention by computerized systematic methods. In _Human-Computer Interaction. HCI Applications and Services: 12th International Conference, HCI International 2007, Beijing, China, July 22-27, 2007, Proceedings, Part IV 12_ (pp. 450-458). Springer Berlin Heidelberg.
+- Duffy, T. M. (1996). Constructivism: Implications for the design and delivery of instruction. _Handbook of research for educational communications and technology_, 170-198.
+- Cole, M. (1998). _Cultural psychology: A once and future discipline_. Harvard university press.
+- Ligorio, M. B. (2010). Dialogical relationship between identity and learning. _Culture & Psychology_, _16_(1), 93-107.
+- Vermunt, J. D., & Verloop, N. (1999). Congruence and friction between learning and teaching. _Learning and instruction_, _9_(3), 257-280.
+- Lave, J., & Wenger, E. (1991). _Situated learning: Legitimate peripheral participation_. Cambridge university press.
+- Matusov, E. (2001). Intersubjectivity as a way of informing teaching design for a community of learners classroom. _Teaching and teacher education_, _17_(4), 383-402.
+- Vygotsky, L. S., & Cole, M. (1978). _Mind in society: Development of higher psychological processes_. Harvard university press.
+- Wenger, E. (1999). _Communities of practice: Learning, meaning, and identity_. Cambridge university press.
+- Alam, A. (2022). Platform utilising blockchain technology for eLearning and online education for open sharing of academic proficiency and progress records. In _Smart Data Intelligence: Proceedings of ICSMDI 2022_ (pp. 307-320). Singapore: Springer Nature Singapore.
+- Alam, A. (2022). Cloud-based e-learning: scaffolding the environment for adaptive e-learning ecosystem based on cloud computing infrastructure. In _Computer Communication, Networking and IoT: Proceedings of 5th ICICC 2021, Volume 2_(pp. 1-9). Singapore: Springer Nature Singapore.
+- Gumbheer, C. P., Khedo, K. K., & Bungaleea, A. (2022). Personalized and adaptive context-aware mobile learning: Review, challenges and future directions. _Education and Information Technologies_, _27_(6), 7491-7517.
+- Shirky, C. (2014). Why I just asked my students to put their laptops away. _Medium. com_, _11_.
+- Alam, A. (2021, November). Possibilities and apprehensions in the landscape of artificial intelligence in education. In _2021 International Conference on Computational Intelligence and Computing Applications (ICCICA)_ (pp. 1-8). IEEE.
+- Alam, A. (2022). Impact of university’s human resources practices on professors’ occupational performance: empirical evidence from India’s higher education sector. In _Inclusive businesses in developing economies: Converging people, profit, and corporate citizenship_ (pp. 107-131). Cham: Springer International Publishing.
+- Yıldız, G., Yıldırım, A., Akça, B. A., Kök, A., Özer, A., & Karataş, S. (2020). Research trends in mobile learning. _International Review of Research in Open and Distributed Learning_, _21_(3), 175-196.
+- Jan, S. (2018). Investigating the Relationship between Students' Digital Literacy and Their Attitude towards Using ICT. _International Journal of Educational Technology_, _5_(2), 26-34.
+- Ratten, V. (2020). Coronavirus (covid-19) and entrepreneurship: changing life and work landscape. _Journal of Small Business & Entrepreneurship_, _32_(5), 503-516.
+- Ing, H. C., Yahaya, N., Laxman, K., & Al-Rahmi, W. M. (2020). Examining learners’ interaction pattern in asynchronous text-based online learning. _i-manager’s Journal of Educational Technology_, _16_(4), 9-19.
+- Nyikes, Z. (2018). Contemporary digital competency review. _Interdisciplinary Description of Complex Systems: INDECS_, _16_(1), 124-131.
+- Gretter, S., & Yadav, A. (2016). Computational thinking and media & information literacy: An integrated approach to teaching twenty-first century skills. _TechTrends_, _60_, 510-516.
+- Easterbrook, S. (2014, August). From Computational Thinking to Systems Thinking: A conceptual toolkit for sustainability computing. In _ICT for Sustainability 2014 (ICT4S-14)_ (pp. 235-244). Atlantis Press.
+- Djambong, T., Freiman, V., Gauvin, S., Paquet, M., & Chiasson, M. (2018). Measurement of computational thinking in K-12 education: The need for innovative practices. _Digital technologies: Sustainable innovations for improving teaching and learning_, 193-222.
+- Buckingham, D. (2010). Defining digital literacy. Medienbildung in neuen Kulturräumen. _B. Bachmair (Ed.)_, 59-71.
+- Yuan, Y. H., Liu, C. H., & Kuang, S. S. (2021). An innovative and interactive teaching model for cultivating talent’s digital literacy in decision making, sustainability, and computational thinking. _Sustainability_, _13_(9), 5117.
+- Ungerer, L. M. (2016). Digital curation as a core competency in current learning and literacy: A higher education perspective. _The International Review of Research in Open and Distributed Learning_, _17_(5).
+- Hatlevik, O. E., Throndsen, I., Loi, M., & Gudmundsdottir, G. B. (2018). Students’ ICT self-efficacy and computer and information literacy: Determinants and relationships. _Computers & Education_, _118_, 107-119.
+- Ungerer, L. M. (2016). Digital curation as a core competency in current learning and literacy: A higher education perspective. _The International Review of Research in Open and Distributed Learning_, _17_(5).
+- Koltay, T. (2011). The media and the literacies: Media literacy, information literacy, digital literacy. _Media, culture & society_, _33_(2), 211-221.
+- Khalid, F. (2017). Understanding university students’ use of facebook for collaborative learning. _International Journal of Information and Education Technology_, _7_(8), 595-600.
+- Annansingh, F., & Veli, T. (2016). An investigation into risks awareness and e-safety needs of children on the internet: a study of Devon, UK. _Interactive technology and smart education_, _13_(2), 147-165.
+- Hamid, N. N. A., & Rahman, S. A. (2018). Impact of social media on Malaysia’s election landscape. _International Journal of Academic Research in Business and Social Sciences_, _8_(9), 275-284.
+- Ratten, V. (2015). A cross-cultural comparison of online behavioural advertising knowledge, online privacy concerns and social networking using the technology acceptance model and social cognitive theory. _Journal of Science & Technology Policy Management_, _6_(1), 25-36.
+- Griffiths, M. D., & Kuss, D. J. (2015). Online addictions: Gambling, video gaming, and social networking. _The handbook of the psychology of communication technology_, 384-403.
+- Mosalanejad, L., Dehghanı, A., & Abdolahıfard, K. (2014). The students' experiences of ethics in online systems: A phenomenological study. _Turkish Online Journal of Distance Education_, _15_(4), 205-216.
+- Ktoridou, D., Eteokleous, N., & Zahariadou, A. (2012). Exploring parents’ and children's awareness on internet threats in relation to internet safety. _Campus-wide information systems_, _29_(3), 133-143.
+- Ahmad, N., Asma’Mokhtar, U., Fauzi, W. F. P., Othman, Z. A., Yeop, Y. H., & Abdullah, S. N. H. S. (2018, November). Cyber security situational awareness among parents. In _2018 cyber resilience conference (crc)_ (pp. 1-3). IEEE.
+- Rahman, N. A. A., Sairi, I. H., Zizi, N. A. M., & Khalid, F. (2020). The importance of cybersecurity education in school. _International Journal of Information and Education Technology_, _10_(5), 378-382.
+- Khalid, F., Daud, M. Y., Rahman, M. J. A., & Nasir, M. K. M. (2018). An investigation of university students’ awareness on cyber security. _International Journal of Engineering & Technology_, _7_(421), 11-14.
+- OfCom, U. K. (2016). Children and parents: Media use and attitudes report. _London: Office of Communications London_.
+- Kruse, C. S., Frederick, B., Jacobson, T., & Monticone, D. K. (2017). Cybersecurity in healthcare: A systematic review of modern threats and trends. _Technology and Health Care_, _25_(1), 1-10.
+- Dong, P., Han, Y., Guo, X., & Xie, F. (2015). A systematic review of studies on cyber physical system security. _International Journal of Security and Its Applications_, _9_(1), 155-164.
+- Franke, U., & Brynielsson, J. (2014). Cyber situational awareness–a systematic review of the literature. _Computers & security_, _46_, 18-31.
+- Abd Rahim, N. H., Hamid, S., Kiah, M. L. M., Shamshirband, S., & Furnell, S. (2015). A systematic review of approaches to assessing cybersecurity awareness. _Kybernetes_, _44_(4), 606-622.
+- Herrera, A. V., Ron, M., & Rabadão, C. (2017, June). National cyber-security policies oriented to BYOD (bring your own device): Systematic review. In _2017 12th Iberian Conference on Information Systems and Technologies (CISTI)_ (pp. 1-4). IEEE.
+- Visoottiviseth, V., Sainont, R., Boonnak, T., & Thammakulkrajang, V. (2018, July). POMEGA: Security game for building security awareness. In _2018 Seventh ICT International Student Project Conference (ICT-ISPC)_ (pp. 1-6). IEEE.
+- Bhardwaj, J. (2019). Design of a game for cybersecurity awareness.
+- Yasin, A., Liu, L., Li, T., Wang, J., & Zowghi, D. (2018). Design and preliminary evaluation of a cyber Security Requirements Education Game (SREG). _Information and Software Technology_, _95_, 179-200.
+- Lopes, I., Morenets, Y., Inácio, P. R., & Silva, F. G. M. (2018). Cyber-detective—A game for cyber crime prevention. _Proceedings of the Play2Learn_, 175-191.
+- Seale, J., & Schoenberger, N. (2018). Be internet awesome: A critical analysis of google's child-focused internet safety program. _Emerging Library & Information Perspectives_, _1_(1), 34-58.
+- Adams, M., & Makramalla, M. (2015). Cybersecurity skills training: An attacker-centric gamified approach. _Technology Innovation Management Review_, _5_(1).
+- Kayali, F., Wallner, G., Kriglstein, S., Bauer, G., Martinek, D., Hlavacs, H., ... & Wölfle, R. (2014). A case study of a learning game about the Internet. In _Games for Training, Education, Health and Sports: 4th International Conference on Serious Games, GameDays 2014, Darmstadt, Germany, April 1-5, 2014. Proceedings 4_ (pp. 47-58). Springer International Publishing.
+- Parekh, G., DeLatte, D., Herman, G. L., Oliva, L., Phatak, D., Scheponik, T., & Sherman, A. T. (2017). Identifying core concepts of cybersecurity: Results of two Delphi processes. _IEEE Transactions on Education_, _61_(1), 11-20.
+- Cisco. (2020). Cisco Annual Internet Report. Available: https://www.magonlinelibrary.com/doi/abs/10.1016/S1361-3723%2820%2930026-9
+- Kabakci, I., Ferhan Odabasi, H., & Kilicer, K. (2010). Transformative learning‐based mentoring for professional development of teacher educators in information and communication technologies: an approach for an emerging country. _Professional development in education_, _36_(1-2), 263-273.
+- Rogers, E. M., Singhal, A., & Quinlan, M. M. (2014). Diffusion of innovations. In _An integrated approach to communication theory and research_ (pp. 432-448). Routledge.
+- Caldwell, H. (2018). Mobile technologies as a catalyst for pedagogic innovation within teacher education. _International Journal of Mobile and Blended Learning (IJMBL)_, _10_(2), 50-65.
+- Pomasunco, R., & Orosco, J. (2020). ‘Adolescents and risk of ICT. _Revista Electrónica de Investigación Educativa_, _22_(e17), 2-13.
+- Chen, Y., & He, W. (2013). Security risks and protection in online learning: A survey. _International Review of Research in Open and Distributed Learning_, _14_(5), 108-127.
+- Alotaibi, N. B. (2019). Cyber bullying and the expected consequences on the students’ academic achievement. _IEEE access_, _7_, 153417-153431.
+- Alexei, L. A., Nistiriuk, P., & Alexei, A. (2021). Empirical study of cyber security threats in Moldovan higher education institutions. In _Electronics, Communications and Computing_ (pp. 241-244).
+- Sikder, A. K., Aksu, H., & Uluagac, A. S. (2019). A context-aware framework for detecting sensor-based threats on smart devices. _IEEE Transactions on Mobile Computing_, _19_(2), 245-261.
+- Wangen, G. (2017). Information security risk assessment: a method comparison. _Computer_, _50_(4), 52-61.
+- Parekh, G., DeLatte, D., Herman, G. L., Oliva, L., Phatak, D., Scheponik, T., & Sherman, A. T. (2017). Identifying core concepts of cybersecurity: Results of two Delphi processes. _IEEE Transactions on Education_, _61_(1), 11-20.
+- Hijji, M., & Alam, G. (2021). A multivocal literature review on growing social engineering based cyber-attacks/threats during the COVID-19 pandemic: challenges and prospective solutions. _Ieee Access_, _9_, 7152-7169.
+- Ashley, T. D., Kwon, R., Gourisetti, S. N. G., Katsis, C., Bonebrake, C. A., & Boyd, P. A. (2022). Gamification of cybersecurity for workforce development in critical infrastructure. _IEEE Access_, _10_, 112487-112501.
+- Graham, K., Anderson, J., Rife, C., Heitmeyer, B., Patel, P. R., Nykl, S., ... & Merkle, L. D. (2020). Cyberspace odyssey: A competitive team-oriented serious game in computer networking. _IEEE Transactions on Learning Technologies_, _13_(3), 502-515.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

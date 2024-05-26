@@ -1,0 +1,133 @@
+<mxfile host="app.diagrams.net" modified="2024-05-22T11:47:01.981Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.15" etag="7uKu8hjmOatef4pMDLUD" version="24.4.4" type="device">
+  <diagram name="第 1 页" id="4mWhcBvc8nv3TKcZeSgo">
+    <mxGraphModel dx="625" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="110" y="40" width="140" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-1" value="攻擊原理關卡" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="rQcPdC8uoWaf9FCeWB-y-16">
+          <mxGeometry width="140" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-2" value="控制小病毒，並逐步感染更多電腦" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;align=left;spacingLeft=0;" vertex="1" parent="rQcPdC8uoWaf9FCeWB-y-16">
+          <mxGeometry x="10" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-3" value="對不同目標發動DDOS攻擊" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;align=left;spacingLeft=0;" vertex="1" parent="rQcPdC8uoWaf9FCeWB-y-16">
+          <mxGeometry x="10" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="110" y="250" width="140" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-4" value="選擇不同彈藥進行攻擊" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;align=left;spacingLeft=0;" vertex="1" parent="rQcPdC8uoWaf9FCeWB-y-17">
+          <mxGeometry x="10" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-5" value="攻擊手段關卡" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="rQcPdC8uoWaf9FCeWB-y-17">
+          <mxGeometry width="140" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-8" value="選擇不同彈藥進行攻擊" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;align=left;spacingLeft=0;" vertex="1" parent="rQcPdC8uoWaf9FCeWB-y-17">
+          <mxGeometry x="10" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-9" value="不同彈藥攻擊效果進行疊加創造最大攻擊力" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;align=left;spacingLeft=0;" vertex="1" parent="rQcPdC8uoWaf9FCeWB-y-17">
+          <mxGeometry x="10" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="500" y="40" width="140" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-10" value="防禦手段關卡" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="rQcPdC8uoWaf9FCeWB-y-18">
+          <mxGeometry width="140" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-11" value="依據不同防禦績效獲得不同評級" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;align=left;spacingLeft=0;" vertex="1" parent="rQcPdC8uoWaf9FCeWB-y-18">
+          <mxGeometry x="10" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-12" value="邀請更多夥伴電腦加入" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;align=left;spacingLeft=0;" vertex="1" parent="rQcPdC8uoWaf9FCeWB-y-18">
+          <mxGeometry x="10" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-13" value="分辯壞蛋" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;align=left;spacingLeft=0;" vertex="1" parent="rQcPdC8uoWaf9FCeWB-y-18">
+          <mxGeometry x="10" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-14" value="設置防火牆規則阻擋攻擊" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;align=left;spacingLeft=0;" vertex="1" parent="rQcPdC8uoWaf9FCeWB-y-18">
+          <mxGeometry x="10" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-15" value="不同攻擊類型和強度" style="rounded=0;whiteSpace=wrap;html=1;spacing=10;align=left;spacingLeft=0;" vertex="1" parent="rQcPdC8uoWaf9FCeWB-y-18">
+          <mxGeometry x="10" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-19" value="批判性思考" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="60" width="90" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-20" value="解決問題" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="177.5" width="90" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-21" value="創造性" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="310" width="90" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rQcPdC8uoWaf9FCeWB-y-13" target="rQcPdC8uoWaf9FCeWB-y-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="120" as="sourcePoint" />
+            <mxPoint x="420" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rQcPdC8uoWaf9FCeWB-y-14" target="rQcPdC8uoWaf9FCeWB-y-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="110" as="sourcePoint" />
+            <mxPoint x="430" y="112" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.019;exitY=0.606;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rQcPdC8uoWaf9FCeWB-y-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="180" as="sourcePoint" />
+            <mxPoint x="420" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rQcPdC8uoWaf9FCeWB-y-12" target="rQcPdC8uoWaf9FCeWB-y-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="227" as="sourcePoint" />
+            <mxPoint x="400" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.035;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rQcPdC8uoWaf9FCeWB-y-3" target="rQcPdC8uoWaf9FCeWB-y-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="250" as="sourcePoint" />
+            <mxPoint x="430" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.985;exitY=0.661;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rQcPdC8uoWaf9FCeWB-y-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="180" as="sourcePoint" />
+            <mxPoint x="330" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rQcPdC8uoWaf9FCeWB-y-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="250" as="sourcePoint" />
+            <mxPoint x="420" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.999;exitY=0.592;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="rQcPdC8uoWaf9FCeWB-y-2" target="rQcPdC8uoWaf9FCeWB-y-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="180" as="sourcePoint" />
+            <mxPoint x="343" y="236" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.999;exitY=0.606;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rQcPdC8uoWaf9FCeWB-y-9" target="rQcPdC8uoWaf9FCeWB-y-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="248" y="330" as="sourcePoint" />
+            <mxPoint x="340" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.019;exitY=0.592;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="rQcPdC8uoWaf9FCeWB-y-15" target="rQcPdC8uoWaf9FCeWB-y-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="250" as="sourcePoint" />
+            <mxPoint x="430" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQcPdC8uoWaf9FCeWB-y-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rQcPdC8uoWaf9FCeWB-y-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="522" y="326" as="sourcePoint" />
+            <mxPoint x="420" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

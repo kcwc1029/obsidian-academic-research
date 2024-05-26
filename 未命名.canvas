@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"8592c5805a1adc29","type":"text","text":"簡單論述STEM","x":-240,"y":-220,"width":118,"height":50},
-		{"id":"f2226d2ec2be9493","x":-301,"y":-226,"width":250,"height":60,"type":"text","text":"簡單論述STEM"},
-		{"id":"ccbd2d29c0d0e5ae","x":-296,"y":-142,"width":250,"height":60,"type":"text","text":"傳統方法（講座）教育失敗"},
-		{"id":"cf7d64a1700a98a1","x":-59,"y":-40,"width":250,"height":60,"type":"text","text":""}
-	],
-	"edges":[]
-}
