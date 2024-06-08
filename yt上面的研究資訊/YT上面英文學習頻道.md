@@ -1,0 +1,18 @@
+- [(1750) BBC Learning English - YouTube](https://www.youtube.com/@bbclearningenglish)
+- [(1750) English 4U 活用空中美語 - YouTube](https://www.youtube.com/@English4uNet4U)（空英中級）
+- [(1750) English Digest 實用空中美語 - YouTube](https://www.youtube.com/@English4uNetDigest/videos)（空英中高級）
+- [(1750) 莫妮卡英文小角落 Monika's English Corner - YouTube](https://www.youtube.com/@MonikaEnglishCorner/videos)（整理單字類）
+- [(1750) engVid: Learn English - YouTube](https://www.youtube.com/@EngVid)（偏向大教學）
+- [(1750) Ella聊美语 - YouTube](https://www.youtube.com/@ellaenglish)（適合吃飯看）
+- [(1750) C's English Corner 英文角落 - YouTube](https://www.youtube.com/@CsEnglishCorner)（適合吃飯看）
+- [(1750) Chen Lily - YouTube](https://www.youtube.com/@ChenLily)（適合吃飯看）
+- [(1750) Evan Carmichael - YouTube](https://www.youtube.com/@EvanCarmichael)（適合吃飯看）
+- [(1750) Cindy Sung - YouTube](https://www.youtube.com/@cindysungc)（民眾黨英文老師）
+- [(1750) Easy Speak English - YouTube](https://www.youtube.com/@easyenglishspeak)（美美卡通英文）
+- [(1750) English with Lucy - YouTube](https://www.youtube.com/@EnglishwithLucy)（不用說了吧）
+- [(1750) Jenn Im - YouTube](https://www.youtube.com/@imjennim)（volg）
+- [(1750) JR Lee Radio - YouTube](https://www.youtube.com/@JRLeeRadio)（他的pocast可以聽）
+- [(1750) Mel Robbins - YouTube](https://www.youtube.com/@melrobbins)（pocast）
+- [(1750) Practical Psychology - YouTube](https://www.youtube.com/@PracticalPsychologyTips)
+- [(1750) 陈杨木字旁 - YouTube](https://www.youtube.com/@BesidehcharacteChe)
+- [LEADERSHIP LAB: Writing Beyond the Academy 1.23.15 (youtube.com)](https://www.youtube.com/watch?v=aFwVf5a3pZM)（外國課堂）

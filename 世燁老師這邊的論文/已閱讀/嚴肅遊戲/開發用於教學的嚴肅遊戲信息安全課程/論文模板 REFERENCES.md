@@ -190,22 +190,12 @@
 - Hijji, M., & Alam, G. (2021). A multivocal literature review on growing social engineering based cyber-attacks/threats during the COVID-19 pandemic: challenges and prospective solutions. _Ieee Access_, _9_, 7152-7169.
 - Ashley, T. D., Kwon, R., Gourisetti, S. N. G., Katsis, C., Bonebrake, C. A., & Boyd, P. A. (2022). Gamification of cybersecurity for workforce development in critical infrastructure. _IEEE Access_, _10_, 112487-112501.
 - Graham, K., Anderson, J., Rife, C., Heitmeyer, B., Patel, P. R., Nykl, S., ... & Merkle, L. D. (2020). Cyberspace odyssey: A competitive team-oriented serious game in computer networking. _IEEE Transactions on Learning Technologies_, _13_(3), 502-515.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Truong, K. D., & Tran, B. C. N. (2022). Higher order thinking skills in teaching academic writing: Suggestions for application. _The New English Teacher ISSN 2985-0959 (Online)_, _16_(1), 101-124.
+- Phakiti, A. (2018). Assessing higher‐order thinking skills in language learning. _The TESOL encyclopedia of English language teaching_, 1-7.
+- Alsowat, H. (2016). An EFL flipped classroom teaching model: Effects on English language higher-order thinking skills, student engagement and satisfaction. _Journal of Education and Practice_, _7_(9), 108-121.
+- Huang, Y. M., Silitonga, L. M., Murti, A. T., & Wu, T. T. (2023). Learner engagement in a business simulation game: Impact on higher-order thinking skills. _Journal of Educational Computing Research_, _61_(1), 96-126.
+- Wu, T. T., Silitonga, L. M., & Murti, A. T. (2024). Enhancing English writing and higher-order thinking skills through computational thinking. _Computers & Education_, 105012.
+- Mory, E. H. (2013). Feedback research revisited. In _Handbook of research on educational communications and technology_ (pp. 738-776). Routledge.
+- Thurlings, M., Vermeulen, M., Bastiaens, T., & Stijnen, S. (2013). Understanding feedback: A learning theory perspective. _Educational Research Review_, _9_, 1-15.
 
 

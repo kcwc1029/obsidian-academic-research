@@ -8,19 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38ab7116d47b6882",
+            "id": "c102ccddd39504ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/論文模板 Development of Serious Games for Teaching Information Security Courses.md",
-                "mode": "source",
-                "source": false
+                "file": "世燁老師這邊的論文/已閱讀/黃老師/將計算思維融入支架式學習 提升科學、技術、工程和數學動手學習的創新方法/Integrating Computational Thinking Into Scaffolding Learning An Innovative Approach to Enhance Science, Technology Engineering and Mathematics Hands-On Learning.pdf"
               }
             }
           },
           {
-            "id": "2005ccdcb10aca45",
+            "id": "10fb06d3a3136358",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,29 +30,43 @@
             }
           },
           {
-            "id": "b3a4d13499859139",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "世燁老師這邊的論文/已閱讀/黃老師/將計算思維融入支架式學習 提升科學、技術、工程和數學動手學習的創新方法/Integrating Computational Thinking Into Scaffolding Learning An Innovative Approach to Enhance Science, Technology Engineering and Mathematics Hands-On Learning.pdf"
-              }
-            }
-          },
-          {
-            "id": "5e05fa09d08e0dc4",
+            "id": "4708a4c361d435e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/配合論文模板重寫.md",
+                "file": "yt上面的研究資訊/YT上面論文學習頻道.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c102ccddd39504ab",
+            "id": "be97e5b224fdd678",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yt上面的研究資訊/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ff03e4debf4e3f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英文教學/賴世雄教你英文不踩雷.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddaf6a78f2db5ad7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/論文模板 REFERENCES.md",
+                "file": "暫存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/論文模板 REFERENCES.md",
+                "file": "暫存.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/論文模板 REFERENCES.md"
+                "file": "暫存.md"
               }
             }
           }
@@ -195,22 +207,34 @@
   },
   "active": "4cf2ae5e2e5e1670",
   "lastOpenFiles": [
-    "SPSS/信度分析/信度分析練習.xlsx",
-    "SPSS/信度分析/~$信度分析練習.xlsx",
-    "SPSS/信度分析",
-    "SPSS/未命名檔案夾",
-    "SPSS",
-    "未命名檔案夾",
-    "世燁老師這邊的論文/已閱讀/黃老師/將計算思維融入支架式學習 提升科學、技術、工程和數學動手學習的創新方法/Integrating Computational Thinking Into Scaffolding Learning An Innovative Approach to Enhance Science, Technology Engineering and Mathematics Hands-On Learning.pdf",
-    "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/配合論文模板重寫.md",
-    "世燁老師這邊的論文/已閱讀/嚴肅遊戲/從遊戲中學習：針對國小學童開發網路安全行動式嚴肅遊戲以促進高階思維與永續資訊素養能力1.2.0.pdf",
+    "英文教學/No 298.md",
+    "英文教學/賴世雄教你英文不踩雷.md",
+    "yt上面的研究資訊/未命名.md",
+    "英文教學",
+    "世燁老師這邊的論文/已閱讀/詐騙教育/文字素材/基於遊戲化理論的反欺詐教育模式研究/基於遊戲化理論的反欺詐教育模式研究.pdf",
+    "世燁老師這邊的論文/已閱讀/詐騙教育/文字素材/基於遊戲化理論的反欺詐教育模式研究",
+    "世燁老師這邊的論文/已閱讀/詐騙教育/文字素材",
+    "世燁老師這邊的論文/已閱讀/詐騙教育/未命名檔案夾",
+    "世燁老師這邊的論文/已閱讀/詐騙教育/基於遊戲化理論的反欺詐教育模式研究/基於遊戲化理論的反欺詐教育模式研究.pdf",
+    "世燁老師這邊的論文/已閱讀/詐騙教育/基於遊戲化理論的反欺詐教育模式研究",
+    "世燁老師這邊的論文/已閱讀/詐騙教育",
+    "世燁老師這邊的論文/已閱讀/未命名檔案夾",
+    "世燁老師這邊的論文/已閱讀/基於遊戲化理論的反欺詐教育模式研究/基於遊戲化理論的反欺詐教育模式研究.pdf",
+    "yt上面的研究資訊/attachments/Pasted image 20240601002747.png",
+    "yt上面的研究資訊/attachments/BE2A6EEF-83F6-47AE-ADCE-2FFE3D8B6425_1_201_a.jpeg",
+    "yt上面的研究資訊/SCI论文写作教程.md",
     "暫存.md",
-    "世燁老師這邊的論文/已閱讀/嚴肅遊戲/實驗流程圖-3.jpg",
     "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/論文模板 REFERENCES.md",
+    "yt上面的研究資訊/YT上面論文學習頻道.md",
+    "README.md",
+    "yt上面的研究資訊/YT上面程式學習頻道.md",
+    "yt上面的研究資訊/YT上面英文學習頻道.md",
+    "yt上面的研究資訊/數據資料庫來源.md",
+    "attachments/Pasted image 20240527140341.png",
     "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/論文模板 Development of Serious Games for Teaching Information Security Courses.md",
-    "世燁老師這邊的論文/已閱讀/嚴肅遊戲/~$戲中學習：針對國小學童開發網路安全行動式嚴肅遊戲以促進高階思維與永續資訊素養能力.docx",
-    "世燁老師這邊的論文/已閱讀/嚴肅遊戲/從遊戲中學習：針對國小學童開發網路安全行動式嚴肅遊戲以促進高階思維與永續資訊素養能力.docx",
-    "世燁老師這邊的論文/已閱讀/嚴肅遊戲/~$問卷題目.xlsx",
+    "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/配合論文模板重寫.md",
+    "世燁老師這邊的論文/已閱讀/黃老師/通過學習行為分析和互動--建構--主動--被動框架探索 STEM 教育的學習過程和效果/Exploring the Learning Process and Effectiveness of STEM Education via Learning Behavior Analysis and the Interactive-Constructive-Active-Passive Framework.md",
+    "世燁老師這邊的論文/已閱讀/嚴肅遊戲/實驗流程圖-3.jpg",
     "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/attachments/實驗流程圖-2.jpg",
     "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/attachments/遊戲架構思想.jpg",
     "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/attachments/實驗流程圖.jpg",
@@ -218,29 +242,17 @@
     "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/attachments/Pasted image 20240520145547.png",
     "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/attachments/Pasted image 20240520233010.png",
     "世燁老師這邊的論文/已閱讀/黃老師/將計算思維融入支架式學習 提升科學、技術、工程和數學動手學習的創新方法/Integrating Computational Thinking Into Scaffolding Learning An Innovative Approach to Enhance Science, Technology, Engineering, and Mathematics Hands-On Learning.md",
-    "世燁老師這邊的論文/已閱讀/黃老師/通過學習行為分析和互動--建構--主動--被動框架探索 STEM 教育的學習過程和效果/Exploring the Learning Process and Effectiveness of STEM Education via Learning Behavior Analysis and the Interactive-Constructive-Active-Passive Framework.md",
     "世燁老師這邊的論文/未閱讀/K-12 學生的高階思維能力：概念、組成部分和評價指標/K-12 students’higher-order thinking skills Conceptualization, components, and evaluation indicators.md",
     "世燁老師這邊的論文/已閱讀/PLS/基於計劃行為理論的高等教育移動學習準備情況調查/An investigation of mobile learning readiness in higher education based on the theory of planned behavior.md",
-    "README.md",
     "世燁老師這邊的論文/已閱讀/黃老師/通過基於ChatGPT的學習輔助工具促進混合式學習中的自我調節進步和知識建構/Promoting Self-Regulation Progress and Knowledge Construction in Blended Learning via ChatGPT-Based Learning Aid.md",
-    "世燁老師這邊的論文/已閱讀/黃老師/將計算思維融入支架式學習 提升科學、技術、工程和數學動手學習的創新方法/attachments/Pasted image 20240518153042.png",
     "世燁老師這邊的論文/已閱讀/通過基於ChatGPT的學習輔助工具促進混合式學習中的自我調節進步和知識建構/Promoting Self-Regulation Progress and Knowledge Construction in Blended Learning via ChatGPT-Based Learning Aid.md",
     "SPSS重新整理/一般線性回歸/一般線性回歸.md",
-    "SPSS/SPSS/attachments/Pasted image 20240511165553.png",
-    "SPSS/SPSS/attachments/Pasted image 20240509030612.png",
     "SPSS/SPSS/08回歸分析.md",
     "SPSS/SPSS/07t檢定.md",
     "SPSS/SPSS/06相關分析.md",
     "SPSS/SPSS/05效度與因素分析.md",
     "SPSS/SPSS/04信度分析.md",
     "SPSS/SPSS/03IPA分析.md",
-    "SPSS/SPSS/02敘述性統計（變數現況分析）.md",
-    "SPSS/SPSS/01李克特量表.md",
-    "SPSS/SPSS/00所有分析總覽.md",
-    "SPSS/SPSS/00SPSS軟體基本操作.md",
-    "SPSS/SPSS（重新整理）/01李克特量表.md",
-    "SPSS/SPSS（重新整理）/08回歸分析.md",
-    "SPSS/SPSS（重新整理）/00所有分析總覽.md",
     "未命名.canvas"
   ]
 }

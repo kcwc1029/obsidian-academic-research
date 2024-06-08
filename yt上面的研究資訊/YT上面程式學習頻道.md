@@ -1,0 +1,15 @@
+- [(1750) Bro Code - YouTube](https://www.youtube.com/@BroCodez)（難完整的）
+- [(1750) Brackeys - YouTube](https://www.youtube.com/@Brackeys)（單純遊戲）
+- [(1750) CodingStartup - YouTube](https://www.youtube.com/@CodingStartup)（CSS）
+- [(1750) GrandmaCan -我阿嬤都會 - YouTube](https://www.youtube.com/@GrandmaCan)
+- [(1750) Java Road - YouTube](https://www.youtube.com/@JavaRoadJava)（java教學）
+- [(1750) 学习学习再学习 - YouTube](https://www.youtube.com/@user-ty6fv7np1y)（java教學）
+- [(1750) JavaScript Mastery - YouTube](https://www.youtube.com/@javascriptmastery)
+- [(1750) Meiko微課頻道 - YouTube](https://www.youtube.com/@meiko1)（Excel）
+- [(1750) PAPAYA 電腦教室 - YouTube](https://www.youtube.com/@papayaclass)
+- [(1750) NYCU OCW - YouTube](https://www.youtube.com/@NYCUOCW)
+- [(1750) 程曦資訊—沒有客服不了的事 - YouTube](https://www.youtube.com/@user-ym8ye1lo9o)（Excel）
+- [(1750) 尚硅谷IT培训学校 - YouTube](https://www.youtube.com/@atguigu)
+- [(1750) 代码真香 - YouTube](https://www.youtube.com/@biezhi)
+- [(1750) 九章算法 - YouTube](https://www.youtube.com/@user-gy9zi2tb2n)
+- 
