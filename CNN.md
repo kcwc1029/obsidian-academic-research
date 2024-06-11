@@ -1,6 +1,6 @@
 pick up
 - 接著 繼續 
-pummel 反覆擊打某人或某物
+pummel 反覆擊打某人或某物\\
 treacherous （地面或大海尤因氣候惡劣）極端危險的，凶險的
 quarry 採石場  miner 礦工
 直升機 helicopter chopper
