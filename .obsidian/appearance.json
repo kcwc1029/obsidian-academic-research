@@ -1,9 +1,10 @@
 {
   "accentColor": "",
-  "textFontFamily": "BiauKaiTC",
+  "textFontFamily": "Avenir Next Condensed",
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "page-width"
   ],
-  "cssTheme": "80s Neon"
+  "cssTheme": "",
+  "interfaceFontFamily": ""
 }

@@ -4,69 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9da6d75c6afa8231",
+        "id": "37b87155d09f095b",
         "type": "tabs",
         "children": [
           {
-            "id": "c102ccddd39504ab",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "世燁老師這邊的論文/已閱讀/黃老師/將計算思維融入支架式學習 提升科學、技術、工程和數學動手學習的創新方法/Integrating Computational Thinking Into Scaffolding Learning An Innovative Approach to Enhance Science, Technology Engineering and Mathematics Hands-On Learning.pdf"
-              }
-            }
-          },
-          {
-            "id": "10fb06d3a3136358",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/論文模板 REFERENCES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4708a4c361d435e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "yt上面的研究資訊/YT上面論文學習頻道.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be97e5b224fdd678",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "yt上面的研究資訊/未命名.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ff03e4debf4e3f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "英文教學/賴世雄教你英文不踩雷.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddaf6a78f2db5ad7",
+            "id": "49500853a427f998",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,9 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "42dd8955b1cb3b65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英文教學/No 298.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a99fe14706b3251",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CNN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "暫存.md",
+                "file": "CNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "暫存.md",
+                "file": "CNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "暫存.md"
+                "file": "CNN.md"
               }
             }
           }
@@ -205,9 +171,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "4cf2ae5e2e5e1670",
+  "active": "0a99fe14706b3251",
   "lastOpenFiles": [
     "英文教學/No 298.md",
+    "CNN.md",
+    "暫存.md",
+    "README.md",
+    "世燁老師這邊的論文/已閱讀/黃老師/將計算思維融入支架式學習 提升科學、技術、工程和數學動手學習的創新方法/Integrating Computational Thinking Into Scaffolding Learning An Innovative Approach to Enhance Science, Technology Engineering and Mathematics Hands-On Learning.pdf",
     "英文教學/賴世雄教你英文不踩雷.md",
     "yt上面的研究資訊/未命名.md",
     "英文教學",
@@ -219,14 +189,11 @@
     "世燁老師這邊的論文/已閱讀/詐騙教育/基於遊戲化理論的反欺詐教育模式研究",
     "世燁老師這邊的論文/已閱讀/詐騙教育",
     "世燁老師這邊的論文/已閱讀/未命名檔案夾",
-    "世燁老師這邊的論文/已閱讀/基於遊戲化理論的反欺詐教育模式研究/基於遊戲化理論的反欺詐教育模式研究.pdf",
     "yt上面的研究資訊/attachments/Pasted image 20240601002747.png",
     "yt上面的研究資訊/attachments/BE2A6EEF-83F6-47AE-ADCE-2FFE3D8B6425_1_201_a.jpeg",
     "yt上面的研究資訊/SCI论文写作教程.md",
-    "暫存.md",
     "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/論文模板 REFERENCES.md",
     "yt上面的研究資訊/YT上面論文學習頻道.md",
-    "README.md",
     "yt上面的研究資訊/YT上面程式學習頻道.md",
     "yt上面的研究資訊/YT上面英文學習頻道.md",
     "yt上面的研究資訊/數據資料庫來源.md",
@@ -252,7 +219,6 @@
     "SPSS/SPSS/06相關分析.md",
     "SPSS/SPSS/05效度與因素分析.md",
     "SPSS/SPSS/04信度分析.md",
-    "SPSS/SPSS/03IPA分析.md",
     "未命名.canvas"
   ]
 }
