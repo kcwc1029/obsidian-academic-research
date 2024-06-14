@@ -1,3 +1,4 @@
+## unit 1
 pick up
 - 接著 繼續 
 pummel 反覆擊打某人或某物
