@@ -4,40 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "37b87155d09f095b",
+        "id": "9da6d75c6afa8231",
         "type": "tabs",
         "children": [
           {
-            "id": "49500853a427f998",
+            "id": "c102ccddd39504ab",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "世燁老師這邊的論文/已閱讀/黃老師/將計算思維融入支架式學習 提升科學、技術、工程和數學動手學習的創新方法/Integrating Computational Thinking Into Scaffolding Learning An Innovative Approach to Enhance Science, Technology Engineering and Mathematics Hands-On Learning.pdf"
+              }
+            }
+          },
+          {
+            "id": "10fb06d3a3136358",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "暫存.md",
+                "file": "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/論文模板 REFERENCES.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "42dd8955b1cb3b65",
+            "id": "4708a4c361d435e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英文教學/No 298.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a99fe14706b3251",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "暫存.md",
+                "file": "yt上面的研究資訊/YT上面論文學習頻道.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "暫存.md",
+                "file": "yt上面的研究資訊/YT上面論文學習頻道.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "暫存.md",
+                "file": "yt上面的研究資訊/YT上面論文學習頻道.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "暫存.md"
+                "file": "yt上面的研究資訊/YT上面論文學習頻道.md"
               }
             }
           }
@@ -171,25 +169,31 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "0a99fe14706b3251",
+  "active": "4708a4c361d435e1",
   "lastOpenFiles": [
-    "世燁老師這邊的報告/研究發想/59103D00",
-    "世燁老師這邊的報告/研究發想/~WRL0196.tmp",
-    "世燁老師這邊的報告/研究發想/~WRD0188.tmp",
-    "世燁老師這邊的報告/研究發想/~WRL0155.tmp",
-    "世燁老師這邊的報告/研究發想/~WRD0147.tmp",
-    "世燁老師這邊的報告/研究發想/~WRL3727.tmp",
-    "世燁老師這邊的報告/研究發想/~WRD3724.tmp",
-    "世燁老師這邊的報告/研究發想/2518CC00",
-    "世燁老師這邊的報告/研究發想/~WRL1542.tmp",
-    "世燁老師這邊的報告/研究發想/~WRD1534.tmp",
-    "世燁老師這邊的報告/研究發想/~WRL2788.tmp",
+    "世燁老師這邊的報告/研究發想/2.0.3/~$具焦看看1.docx",
+    "世燁老師這邊的報告/研究發想/2.0.3/pptEC35.tmp",
+    "世燁老師這邊的報告/研究發想/2.0.3/45DCCE40",
+    "世燁老師這邊的報告/研究發想/2.0.3/C1DCCE40",
+    "世燁老師這邊的報告/研究發想/2.0.3/~WRL3092.tmp",
+    "世燁老師這邊的報告/研究發想/2.0.3/~WRD3064.tmp",
+    "世燁老師這邊的報告/研究發想/2.0.3/~WRL1003.tmp",
+    "世燁老師這邊的報告/研究發想/2.0.3/~WRD0976.tmp",
+    "世燁老師這邊的報告/研究發想/2.0.3/~WRL3211.tmp",
+    "世燁老師這邊的報告/研究發想/2.0.3/~WRD3188.tmp",
+    "世燁老師這邊的報告/研究發想/2.0.3/~WRL3686.tmp",
+    "yt上面的研究資訊/未命名.md",
+    "README.md",
+    "暫存.md",
+    "英文雜誌/README.md",
+    "英文雜誌/attachments/ddddddd.jpg",
+    "attachments/ob字型選擇.png",
+    "yt上面的研究資訊/數據資料庫來源.md",
     "CNN.md",
     "英文教學/No 298.md",
-    "暫存.md",
-    "README.md",
+    "2024.05.08 給晉偉.md",
+    "世燁老師這邊的報告/研究發想/1.0.1理解AI：開發針對小學生的人工智慧啟蒙課程/課程規劃圖.jpg",
     "英文教學/賴世雄教你英文不踩雷.md",
-    "yt上面的研究資訊/未命名.md",
     "yt上面的研究資訊/attachments/Pasted image 20240601002747.png",
     "yt上面的研究資訊/attachments/BE2A6EEF-83F6-47AE-ADCE-2FFE3D8B6425_1_201_a.jpeg",
     "yt上面的研究資訊/SCI论文写作教程.md",
@@ -197,7 +201,6 @@
     "yt上面的研究資訊/YT上面論文學習頻道.md",
     "yt上面的研究資訊/YT上面程式學習頻道.md",
     "yt上面的研究資訊/YT上面英文學習頻道.md",
-    "yt上面的研究資訊/數據資料庫來源.md",
     "attachments/Pasted image 20240527140341.png",
     "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/論文模板 Development of Serious Games for Teaching Information Security Courses.md",
     "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/配合論文模板重寫.md",
@@ -206,9 +209,6 @@
     "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/attachments/實驗流程圖-2.jpg",
     "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/attachments/遊戲架構思想.jpg",
     "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/attachments/實驗流程圖.jpg",
-    "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/attachments/資安遊戲必要因素.jpg",
-    "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/attachments/Pasted image 20240520145547.png",
-    "世燁老師這邊的論文/已閱讀/嚴肅遊戲/開發用於教學的嚴肅遊戲信息安全課程/attachments/Pasted image 20240520233010.png",
     "世燁老師這邊的論文/已閱讀/黃老師/將計算思維融入支架式學習 提升科學、技術、工程和數學動手學習的創新方法/Integrating Computational Thinking Into Scaffolding Learning An Innovative Approach to Enhance Science, Technology, Engineering, and Mathematics Hands-On Learning.md",
     "世燁老師這邊的論文/未閱讀/K-12 學生的高階思維能力：概念、組成部分和評價指標/K-12 students’higher-order thinking skills Conceptualization, components, and evaluation indicators.md",
     "世燁老師這邊的論文/已閱讀/PLS/基於計劃行為理論的高等教育移動學習準備情況調查/An investigation of mobile learning readiness in higher education based on the theory of planned behavior.md",
@@ -217,8 +217,6 @@
     "SPSS重新整理/一般線性回歸/一般線性回歸.md",
     "SPSS/SPSS/08回歸分析.md",
     "SPSS/SPSS/07t檢定.md",
-    "SPSS/SPSS/06相關分析.md",
-    "SPSS/SPSS/05效度與因素分析.md",
     "未命名.canvas"
   ]
 }

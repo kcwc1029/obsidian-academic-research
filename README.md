@@ -57,17 +57,7 @@ obsidian callout
 伍、引用
 ![upgit_20240516_1715837183.png](https://raw.githubusercontent.com/kcwc1029/obsidian-upgit-image/main/2024/05/upgit_20240516_1715837183.png)
 
-## 學生黨todo list
-- 作業
-- 聯絡
-- 會議（課程）
-- 雜七雜八
 
-- 要幹的事
-- 要見的人
-- 要買的東西
-- 要去的地方
-- 雜七雜八
 
 
 ## [如何解決 udemy 螢幕截圖變成黑色的問題?](https://softnshare.com/awesomescreenshotandudemyblackscreenissue/)

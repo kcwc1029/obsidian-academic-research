@@ -1,10 +1,10 @@
 {
   "accentColor": "",
-  "textFontFamily": "Avenir Next Condensed",
-  "baseFontSize": 16,
+  "textFontFamily": "Monaco",
+  "baseFontSize": 15,
   "enabledCssSnippets": [
     "page-width"
   ],
-  "cssTheme": "",
+  "cssTheme": "80s Neon",
   "interfaceFontFamily": ""
 }
